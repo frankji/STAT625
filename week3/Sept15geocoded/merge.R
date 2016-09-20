@@ -21,3 +21,7 @@ allrows<-rbind(no.na, all.na[nanums,])
 allrows<-allrows[order(allrows[,1]), ]
 rownames(allrows)<-1:nrow(allrows)
 allrows[is.na(allrows$location),c(3,4)]<-NA
+still.na<-which(!is.na(allrows$location) & 
+                  apply(allrows[,c(3,4)],1,function(x) all(is.na(x))))
+locs<-paste(allrows[still.na,'location'], ", New Haven, CT", sep="")
+ans<-geocode(allrows[still.na,'location'])
