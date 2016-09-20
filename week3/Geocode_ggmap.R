@@ -2,8 +2,8 @@
 # Geocoding via ggmap
 #
 
-netid <- "dj333"      # Change this.  Lower case letters!
-
+#netid <- "dj333"      # Change this.  Lower case letters!
+netids<-c('hl642', 'se362')
 ##
 ## WARNING: This script will take about 15 minutes to run.
 ##
@@ -16,6 +16,7 @@ netid <- "dj333"      # Change this.  Lower case letters!
 # properties geocoded.  Put this in your Dropbox.com
 # folder.
 
+for(netid in netids){
 set.seed(1)
 n <- read.csv("http://www.stat.yale.edu/~jay/625/.hidden/netids.csv", as.is=TRUE)
 n$myval <- sample(1:nrow(n)) %% 28 + 1
@@ -48,5 +49,5 @@ write.csv(x, paste("geocoded_", netid, ".csv", sep=""),
           row.names=F)
 
 print("DONE!  Take the geocoded_netid.csv file and upload to Dropbox.com.")
-
+}
 
