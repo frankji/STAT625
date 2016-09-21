@@ -24,4 +24,6 @@ allrows[is.na(allrows$location),c(3,4)]<-NA
 still.na<-which(!is.na(allrows$location) & 
                   apply(allrows[,c(3,4)],1,function(x) all(is.na(x))))
 locs<-paste(allrows[still.na,'location'], ", New Haven, CT", sep="")
-ans<-geocode(allrows[still.na,'location'])
+ans<-geocode(locs)
+allrows[still.na,'lat']<-ans$lat
+allrows[still.na, 'lon']<-ans$lon
