@@ -1,0 +1,1769 @@
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> pid 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> location 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> totval 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> bedrooms 
+
+
+---------------------- 2 
+# times there were 2 unique values: 9 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+4327      3          NA           3                 3            3            3
+13723     0          NA           0                 0            0            0
+5226      2          NA           2                 2            2            2
+8859      6          NA           6                 6            6            6
+848       3          NA           3                 3            3            3
+11597     2          NA           2                 2            2            2
+17948     4           4          NA                NA            4            4
+6330      3          NA           3                 3            3            3
+22909     2          NA           2                 2            2            2
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> bathrooms 
+
+
+---------------------- 2 
+# times there were 2 unique values: 5501 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+20829     0          NA           0                 0            0            0
+16783     0          NA           0                 0            0            0
+7395      0          NA           0                 0            0            0
+7012      1          NA           1                 1            1            1
+15769     0          NA           0                 0            0            0
+11563     0          NA           0                 0            0            0
+2356      1          NA           1                 1            1            1
+25747     2          NA           2                 2            2            2
+148       2          NA           2                 2            2            2
+5391      0          NA           0                 0            0            0
+
+
+---------------------- 3 
+# times there were 3 unique values: 3 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+8143    2.5          NA           2                 2          2.5          2.5
+7426   12.0          NA          NA                NA          0.5           NA
+13906   4.5          NA           4                 4          4.5          4.5
+
+
+---------------------- 4 
+# times there were 4 unique values: 1 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+15520   0.5          NA           0                 0          0.5            5
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> halfbaths 
+
+
+---------------------- 2 
+# times there were 2 unique values: 2467 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+11304    NA          NA          NA                 0           NA           NA
+20913    NA          NA          NA                 0           NA           NA
+18406    NA          NA          NA                 0           NA           NA
+19718    NA          NA          NA                 0           NA           NA
+21832    NA          NA          NA                 0           NA           NA
+20603    NA          NA          NA                 0           NA           NA
+17033    NA          NA          NA                 0           NA           NA
+18531    NA          NA          NA                 0           NA           NA
+3100     NA          NA          NA                 0           NA           NA
+10602    NA          NA          NA                 0           NA           NA
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> nineplus 
+
+
+---------------------- 2 
+# times there were 2 unique values: 3797 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+17803 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+10754 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+19288 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+19087 FALSE          NA          NA                NA        FALSE           NA
+7747  FALSE          NA          NA                NA        FALSE           NA
+17876 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+10784 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+2867  FALSE          NA       FALSE             FALSE        FALSE        FALSE
+16995 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+25567 FALSE          NA       FALSE             FALSE        FALSE        FALSE
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> address 
+
+
+---------------------- 2 
+# times there were 2 unique values: 796 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+9745   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+9722   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+1401   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+8434   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+19074  <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+1293   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+19069  <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+20223  <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+22975  <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+9730   <NA>        <NA>        <NA>              <NA>         <NA>        NA NA
+
+
+---------------------- 3 
+# times there were 3 unique values: 18961 
+                                            apd29
+15270          165 CHURCH ST, NEW HAVEN, CT 06510
+1812        864 TOWNSEND AVE, NEW HAVEN, CT 06512
+794            165 CHURCH ST, NEW HAVEN, CT 06510
+4915          581 RUSSELL ST, NEW HAVEN, CT 06513
+18814          112 SYLVAN AV, NEW HAVEN, CT 06519
+10951       12 HUGHES PL T-1, NEW HAVEN, CT 06511
+9701        224 BLATCHLEY AV, NEW HAVEN, CT 06513
+21641 506 WINTHROP AV 2ND FL, NEW HAVEN, CT 06511
+21504        412 NORTON PKWY, NEW HAVEN, CT 06511
+10094          277 WILLOW ST, NEW HAVEN, CT 06511
+                                   eks36_ps579
+15270           CHURCH ST, NEW HAVEN, CT 06510
+1812         TOWNSEND AVE, NEW HAVEN, CT 06512
+794             CHURCH ST, NEW HAVEN, CT 06510
+4915           RUSSELL ST, NEW HAVEN, CT 06513
+18814           SYLVAN AV, NEW HAVEN, CT 06519
+10951       HUGHES PL T-1, NEW HAVEN, CT 06511
+9701         BLATCHLEY AV, NEW HAVEN, CT 06513
+21641  WINTHROP AV 2ND FL, NEW HAVEN, CT 06511
+21504         NORTON PKWY, NEW HAVEN, CT 06511
+10094           WILLOW ST, NEW HAVEN, CT 06511
+                                     grs37_hak25
+15270          165 CHURCH ST NEW HAVEN, CT 06510
+1812        864 TOWNSEND AVE NEW HAVEN, CT 06512
+794            165 CHURCH ST NEW HAVEN, CT 06510
+4915          581 RUSSELL ST NEW HAVEN, CT 06513
+18814          112 SYLVAN AV NEW HAVEN, CT 06519
+10951       12 HUGHES PL T-1 NEW HAVEN, CT 06511
+9701        224 BLATCHLEY AV NEW HAVEN, CT 06513
+21641 506 WINTHROP AV 2ND FL NEW HAVEN, CT 06511
+21504        412 NORTON PKWY NEW HAVEN, CT 06511
+10094          277 WILLOW ST NEW HAVEN, CT 06511
+                               jh938_cps46_aew54
+15270          165 CHURCH ST NEW HAVEN, CT 06510
+1812        864 TOWNSEND AVE NEW HAVEN, CT 06512
+794            165 CHURCH ST NEW HAVEN, CT 06510
+4915          581 RUSSELL ST NEW HAVEN, CT 06513
+18814          112 SYLVAN AV NEW HAVEN, CT 06519
+10951       12 HUGHES PL T-1 NEW HAVEN, CT 06511
+9701        224 BLATCHLEY AV NEW HAVEN, CT 06513
+21641 506 WINTHROP AV 2ND FL NEW HAVEN, CT 06511
+21504        412 NORTON PKWY NEW HAVEN, CT 06511
+10094          277 WILLOW ST NEW HAVEN, CT 06511
+                                     mam352_lcr33
+15270          165 CHURCH ST, NEW HAVEN, CT 06510
+1812        864 TOWNSEND AVE, NEW HAVEN, CT 06512
+794            165 CHURCH ST, NEW HAVEN, CT 06510
+4915          581 RUSSELL ST, NEW HAVEN, CT 06513
+18814          112 SYLVAN AV, NEW HAVEN, CT 06519
+10951       12 HUGHES PL T-1, NEW HAVEN, CT 06511
+9701        224 BLATCHLEY AV, NEW HAVEN, CT 06513
+21641 506 WINTHROP AV 2ND FL, NEW HAVEN, CT 06511
+21504        412 NORTON PKWY, NEW HAVEN, CT 06511
+10094          277 WILLOW ST, NEW HAVEN, CT 06511
+                                    mjb249_ael52
+15270          165 CHURCH ST NEW HAVEN, CT 06510
+1812        864 TOWNSEND AVE NEW HAVEN, CT 06512
+794            165 CHURCH ST NEW HAVEN, CT 06510
+4915          581 RUSSELL ST NEW HAVEN, CT 06513
+18814          112 SYLVAN AV NEW HAVEN, CT 06519
+10951       12 HUGHES PL T-1 NEW HAVEN, CT 06511
+9701        224 BLATCHLEY AV NEW HAVEN, CT 06513
+21641 506 WINTHROP AV 2ND FL NEW HAVEN, CT 06511
+21504        412 NORTON PKWY NEW HAVEN, CT 06511
+10094          277 WILLOW ST NEW HAVEN, CT 06511
+
+
+---------------------- 4 
+# times there were 4 unique values: 1989 
+                                                             apd29
+6296                 40 FOXON HILL RD UNIT 51, NEW HAVEN, CT 06513
+11811 C/O BETSY GRAUER REALTY, 197 BRADLEY ST, NEW HAVEN, CT 06511
+13296               67 HARBOUR CLOSE UNIT B67, NEW HAVEN, CT 06519
+23653                        429 BLAKE ST 429, NEW HAVEN, CT 06515
+18969                         719 CONGRESS AV, NEW HAVEN, CT 06519
+25702                       408 FOUNTAIN ST A, NEW HAVEN, CT 06515
+12503                   307 SAINT RONAN ST B7, NEW HAVEN, CT 06511
+2911              DEPT OF TRANSPORTATION, NEWINGTON, CT 06131-7546
+4577                        620 QUINNIPIAC AV, NEW HAVEN, CT 06513
+5598                  1423 QUINNIPIAC AV #710, NEW HAVEN, CT 06513
+                                                    eks36_ps579
+6296                 FOXON HILL RD UNIT 51, NEW HAVEN, CT 06513
+11811  BETSY GRAUER REALTY, 197 BRADLEY ST, NEW HAVEN, CT 06511
+13296             HARBOUR CLOSE   UNIT B67, NEW HAVEN, CT 06519
+23653                       BLAKE ST   429, NEW HAVEN, CT 06515
+18969                          CONGRESS AV, NEW HAVEN, CT 06519
+25702                    FOUNTAIN ST     A, NEW HAVEN, CT 06515
+12503                   SAINT RONAN ST  B7, NEW HAVEN, CT 06511
+2911              T OF TRANSPORTATION, NEWINGTON, CT 06131-7546
+4577                         QUINNIPIAC AV, NEW HAVEN, CT 06513
+5598                 3  QUINNIPIAC AV #710, NEW HAVEN, CT 06513
+                                                    grs37_hak25
+6296              40  FOXON HILL RD UNIT 51 NEW HAVEN, CT 06513
+11811 C/O BETSY GRAUER REALTY197 BRADLEY ST NEW HAVEN, CT 06511
+13296           67 HARBOUR CLOSE   UNIT B67 NEW HAVEN, CT 06519
+23653                    429 BLAKE ST   429 NEW HAVEN, CT 06515
+18969                      719  CONGRESS AV NEW HAVEN, CT 06519
+25702                 408 FOUNTAIN ST     A NEW HAVEN, CT 06515
+12503                307 SAINT RONAN ST  B7 NEW HAVEN, CT 06511
+2911            DEPT OF TRANSPORTATION NEWINGTON, CT 06131-7546
+4577                     620  QUINNIPIAC AV NEW HAVEN, CT 06513
+5598               1423  QUINNIPIAC AV #710 NEW HAVEN, CT 06513
+                                    jh938_cps46_aew54
+6296    40  FOXON HILL RD UNIT 51 NEW HAVEN, CT 06513
+11811          C/O BETSY GRAUER REALTY 197 BRADLEY ST
+13296 67 HARBOUR CLOSE   UNIT B67 NEW HAVEN, CT 06519
+23653          429 BLAKE ST   429 NEW HAVEN, CT 06515
+18969            719  CONGRESS AV NEW HAVEN, CT 06519
+25702       408 FOUNTAIN ST     A NEW HAVEN, CT 06515
+12503      307 SAINT RONAN ST  B7 NEW HAVEN, CT 06511
+2911  DEPT OF TRANSPORTATION NEWINGTON, CT 06131-7546
+4577           620  QUINNIPIAC AV NEW HAVEN, CT 06513
+5598     1423  QUINNIPIAC AV #710 NEW HAVEN, CT 06513
+                                                      mam352_lcr33
+6296                40  FOXON HILL RD UNIT 51, NEW HAVEN, CT 06513
+11811 C/O BETSY GRAUER REALTY, 197 BRADLEY ST, NEW HAVEN, CT 06511
+13296             67 HARBOUR CLOSE   UNIT B67, NEW HAVEN, CT 06519
+23653                      429 BLAKE ST   429, NEW HAVEN, CT 06515
+18969                        719  CONGRESS AV, NEW HAVEN, CT 06519
+25702                   408 FOUNTAIN ST     A, NEW HAVEN, CT 06515
+12503                  307 SAINT RONAN ST  B7, NEW HAVEN, CT 06511
+2911              DEPT OF TRANSPORTATION, NEWINGTON, CT 06131-7546
+4577                       620  QUINNIPIAC AV, NEW HAVEN, CT 06513
+5598                 1423  QUINNIPIAC AV #710, NEW HAVEN, CT 06513
+                                                   mjb249_ael52
+6296              40  FOXON HILL RD UNIT 51 NEW HAVEN, CT 06513
+11811 C/O BETSY GRAUER REALTY197 BRADLEY ST NEW HAVEN, CT 06511
+13296           67 HARBOUR CLOSE   UNIT B67 NEW HAVEN, CT 06519
+23653                    429 BLAKE ST   429 NEW HAVEN, CT 06515
+18969                      719  CONGRESS AV NEW HAVEN, CT 06519
+25702                 408 FOUNTAIN ST     A NEW HAVEN, CT 06515
+12503                307 SAINT RONAN ST  B7 NEW HAVEN, CT 06511
+2911             DEPT OF TRANSPORTATIONNEWINGTON, CT 06131-7546
+4577                     620  QUINNIPIAC AV NEW HAVEN, CT 06513
+5598               1423  QUINNIPIAC AV #710 NEW HAVEN, CT 06513
+
+
+---------------------- 5 
+# times there were 5 unique values: 4914 
+                                        apd29                          eks36_ps579
+3367           PO BOX 707, BRANFORD, CT 06405          BOX 707, BRANFORD, CT 06405
+9618    260 COMMERCE ST, EAST HAVEN, CT 06512    COMMERCE ST, EAST HAVEN, CT 06512
+3697              1 WEBB ST, HAMDEN, CT 06517             EBB ST, HAMDEN, CT 06517
+17981     PO BOX 120171, EAST HAVEN, CT 06512     BOX 120171, EAST HAVEN, CT 06512
+22475       PO BOX 3616, WOODBRIDGE, CT 06525       BOX 3616, WOODBRIDGE, CT 06525
+12574     7105 RUNNING ROPE, AUSTIN, TX 78731     5 RUNNING ROPE, AUSTIN, TX 78731
+3570           9 NIDA DR, NORTHFORD, CT 06472          IDA DR, NORTHFORD, CT 06472
+11585 15 COUNTRY CLUB CLOSE, ORANGE, CT 06477 COUNTRY CLUB CLOSE, ORANGE, CT 06477
+15583       473 MAINS T, EAST HAVEN, CT 06512        MAINS T, EAST HAVEN, CT 06512
+27307   75 WOODFIELD RD, WOODBRIDGE, CT 06525   WOODFIELD RD, WOODBRIDGE, CT 06525
+                                grs37_hak25                      jh938_cps46_aew54
+3367           PO BOX 707BRANFORD, CT 06405          PO BOX 707 BRANFORD, CT 06405
+9618    260 COMMERCE STEAST HAVEN, CT 06512   260 COMMERCE ST EAST HAVEN, CT 06512
+3697              1 WEBB STHAMDEN, CT 06517             1 WEBB ST HAMDEN, CT 06517
+17981     PO BOX 120171EAST HAVEN, CT 06512     PO BOX 120171 EAST HAVEN, CT 06512
+22475       PO BOX 3616WOODBRIDGE, CT 06525       PO BOX 3616 WOODBRIDGE, CT 06525
+12574     7105 RUNNING ROPEAUSTIN, TX 78731     7105 RUNNING ROPE AUSTIN, TX 78731
+3570           9 NIDA DRNORTHFORD, CT 06472          9 NIDA DR NORTHFORD, CT 06472
+11585 15 COUNTRY CLUB CLOSEORANGE, CT 06477 15 COUNTRY CLUB CLOSE ORANGE, CT 06477
+15583       473 MAINS TEAST HAVEN, CT 06512       473 MAINS T EAST HAVEN, CT 06512
+27307   75 WOODFIELD RDWOODBRIDGE, CT 06525   75 WOODFIELD RD WOODBRIDGE, CT 06525
+                                 mam352_lcr33                           mjb249_ael52
+3367           PO BOX 707, BRANFORD, CT 06405           PO BOX 707BRANFORD, CT 06405
+9618    260 COMMERCE ST, EAST HAVEN, CT 06512    260 COMMERCE STEAST HAVEN, CT 06512
+3697              1 WEBB ST, HAMDEN, CT 06517              1 WEBB STHAMDEN, CT 06517
+17981     PO BOX 120171, EAST HAVEN, CT 06512      PO BOX 120171EAST HAVEN, CT 06512
+22475       PO BOX 3616, WOODBRIDGE, CT 06525        PO BOX 3616WOODBRIDGE, CT 06525
+12574     7105 RUNNING ROPE, AUSTIN, TX 78731      7105 RUNNING ROPEAUSTIN, TX 78731
+3570           9 NIDA DR, NORTHFORD, CT 06472           9 NIDA DRNORTHFORD, CT 06472
+11585 15 COUNTRY CLUB CLOSE, ORANGE, CT 06477  15 COUNTRY CLUB CLOSEORANGE, CT 06477
+15583       473 MAINS T, EAST HAVEN, CT 06512        473 MAINS TEAST HAVEN, CT 06512
+27307   75 WOODFIELD RD, WOODBRIDGE, CT 06525    75 WOODFIELD RDWOODBRIDGE, CT 06525
+
+
+---------------------- 6 
+# times there were 6 unique values: 73 
+                                                                 apd29
+21949                          PO BOX 78 CAMBY ROAD, VERBANK, NY 12585
+24079                       7320 OLD YORK ROAD, PHILADELPHIA, PA 19126
+23064                        1214 DIXWELL AV STE 201, HAMDEN, CT 06514
+21877                          PO BOX 78 CAMBY ROAD, VERBANK, NY 12585
+21590                              144-18 229TH ST, ROSEDALE, NY 11413
+11885                 1940 BAIHLY ESTATES LANE SW, ROCHESTER, MN 55902
+75                              23 MULLIGAN DR, , WALLINFORD, CT 06492
+22645 ATTN: FORECLOSURE , 8950 CYPRESS WATERS BLVD , COPPELL, TX 75019
+21896                          PO BOX 78 CAMBY ROAD, VERBANK, NY 12585
+78                             23 MULLIGAN DR, , WALLINGFORD, CT 06492
+                                                         eks36_ps579
+21949                          BOX 78  CAMBY ROAD, VERBANK, NY 12585
+24079                       0  OLD YORK ROAD, PHILADELPHIA, PA 19126
+23064                        4 DIXWELL AV  STE 201, HAMDEN, CT 06514
+21877                          BOX 78  CAMBY ROAD, VERBANK, NY 12585
+21590                              -18  229TH ST, ROSEDALE, NY 11413
+11885                 0 BAIHLY ESTATES LANE  SW, ROCHESTER, MN 55902
+75                              MULLIGAN DR,  , WALLINFORD, CT 06492
+22645 N: FORECLOSURE , 8950 CYPRESS WATERS BLVD  , COPPELL, TX 75019
+21896                          BOX 78  CAMBY ROAD, VERBANK, NY 12585
+78                             MULLIGAN DR,  , WALLINGFORD, CT 06492
+                                                        grs37_hak25
+21949                        PO BOX 78  CAMBY ROADVERBANK, NY 12585
+24079                     7320  OLD YORK ROADPHILADELPHIA, PA 19126
+23064                      1214 DIXWELL AV  STE 201HAMDEN, CT 06514
+21877                        PO BOX 78  CAMBY ROADVERBANK, NY 12585
+21590                            144-18  229TH STROSEDALE, NY 11413
+11885               1940 BAIHLY ESTATES LANE  SWROCHESTER, MN 55902
+75                              23 MULLIGAN DR WALLINFORD, CT 06492
+22645 ATTN: FORECLOSURE 8950 CYPRESS WATERS BLVD  COPPELL, TX 75019
+21896                        PO BOX 78  CAMBY ROADVERBANK, NY 12585
+78                             23 MULLIGAN DR WALLINGFORD, CT 06492
+                                     jh938_cps46_aew54
+21949          PO BOX 78  CAMBY ROAD VERBANK, NY 12585
+24079       7320  OLD YORK ROAD PHILADELPHIA, PA 19126
+23064        1214 DIXWELL AV  STE 201 HAMDEN, CT 06514
+21877          PO BOX 78  CAMBY ROAD VERBANK, NY 12585
+21590              144-18  229TH ST ROSEDALE, NY 11413
+11885 1940 BAIHLY ESTATES LANE  SW ROCHESTER, MN 55902
+75                                    23 MULLIGAN DR  
+22645    ATTN: FORECLOSURE  8950 CYPRESS WATERS BLVD  
+21896          PO BOX 78  CAMBY ROAD VERBANK, NY 12585
+78                                    23 MULLIGAN DR  
+                                                           mam352_lcr33
+21949                          PO BOX 78  CAMBY ROAD, VERBANK, NY 12585
+24079                       7320  OLD YORK ROAD, PHILADELPHIA, PA 19126
+23064                        1214 DIXWELL AV  STE 201, HAMDEN, CT 06514
+21877                          PO BOX 78  CAMBY ROAD, VERBANK, NY 12585
+21590                              144-18  229TH ST, ROSEDALE, NY 11413
+11885                 1940 BAIHLY ESTATES LANE  SW, ROCHESTER, MN 55902
+75                              23 MULLIGAN DR,  , WALLINFORD, CT 06492
+22645 ATTN: FORECLOSURE , 8950 CYPRESS WATERS BLVD  , COPPELL, TX 75019
+21896                          PO BOX 78  CAMBY ROAD, VERBANK, NY 12585
+78                             23 MULLIGAN DR,  , WALLINGFORD, CT 06492
+                                                        mjb249_ael52
+21949                         PO BOX 78  CAMBY ROADVERBANK, NY 12585
+24079                      7320  OLD YORK ROADPHILADELPHIA, PA 19126
+23064                       1214 DIXWELL AV  STE 201HAMDEN, CT 06514
+21877                         PO BOX 78  CAMBY ROADVERBANK, NY 12585
+21590                             144-18  229TH STROSEDALE, NY 11413
+11885                1940 BAIHLY ESTATES LANE  SWROCHESTER, MN 55902
+75                               23 MULLIGAN DR WALLINFORD, CT 06492
+22645  ATTN: FORECLOSURE 8950 CYPRESS WATERS BLVD  COPPELL, TX 75019
+21896                         PO BOX 78  CAMBY ROADVERBANK, NY 12585
+78                              23 MULLIGAN DR WALLINGFORD, CT 06492
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> landval 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> neighborhood 
+
+
+---------------------- 2 
+# times there were 2 unique values: 109 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+15115  <NA>        <NA>                          <NA>         <NA>         <NA>
+15097  <NA>        <NA>                          <NA>         <NA>         <NA>
+20139  <NA>        <NA>                          <NA>         <NA>         <NA>
+22777  <NA>        <NA>                          <NA>         <NA>         <NA>
+20135  <NA>        <NA>                          <NA>         <NA>         <NA>
+13708  <NA>        <NA>                          <NA>         <NA>         <NA>
+15101  <NA>        <NA>                          <NA>         <NA>         <NA>
+15113  <NA>        <NA>                          <NA>         <NA>         <NA>
+20160  <NA>        <NA>                          <NA>         <NA>         <NA>
+15087  <NA>        <NA>                          <NA>         <NA>         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> zone 
+
+
+---------------------- 2 
+# times there were 2 unique values: 240 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+15090  <NA>                                      <NA>         <NA>         <NA>
+13800  <NA>                                      <NA>         <NA>         <NA>
+12936  <NA>                                      <NA>         <NA>         <NA>
+12464  <NA>                                      <NA>         <NA>         <NA>
+20600  <NA>                                      <NA>         <NA>         <NA>
+20596  <NA>                                      <NA>         <NA>         <NA>
+23704  <NA>                                      <NA>         <NA>         <NA>
+20602  <NA>                                      <NA>         <NA>         <NA>
+20166  <NA>                                      <NA>         <NA>         <NA>
+4697   <NA>                                      <NA>         <NA>         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> acres 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> pctgood 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> replcost 
+
+
+---------------------- 2 
+# times there were 2 unique values: 1 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+17948 73396       73396      146792             73396        73396        73396
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> sqft 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> yearbuilt 
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> style 
+
+
+---------------------- 2 
+# times there were 2 unique values: 13320 
+            apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+9390     2 Family        <NA>    2 Family          2 Family     2 Family
+20567 Condominium Condominium Condominium              <NA>  Condominium
+26202    2 Family        <NA>    2 Family          2 Family     2 Family
+15408    2 Family        <NA>    2 Family          2 Family     2 Family
+25152  Apt 1-7 st  Apt 1-7 st  Apt 1-7 st              <NA>   Apt 1-7 st
+20973    2 Family        <NA>    2 Family          2 Family     2 Family
+23048    3 Family        <NA>    3 Family          3 Family     3 Family
+19737  Industrial  Industrial  Industrial              <NA>   Industrial
+14960   Classroom   Classroom   Classroom              <NA>    Classroom
+11152    3 Family        <NA>    3 Family          3 Family     3 Family
+      mjb249_ael52
+9390      2 Family
+20567  Condominium
+26202     2 Family
+15408     2 Family
+25152   Apt 1-7 st
+20973     2 Family
+23048     3 Family
+19737   Industrial
+14960    Classroom
+11152     3 Family
+
+
+---------------------- 3 
+# times there were 3 unique values: 159 
+                  apd29       eks36_ps579       grs37_hak25 jh938_cps46_aew54
+26798 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+22046 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+15531 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+23062 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+25921 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+19782 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+24316 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+21026 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+20726 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+20285 Retail&lt;10th sf Retail&lt;10th sf Retail&lt;10th sf              <NA>
+           mam352_lcr33   mjb249_ael52
+26798 Retail&lt;10th sf Retail<10th sf
+22046 Retail&lt;10th sf Retail<10th sf
+15531 Retail&lt;10th sf Retail<10th sf
+23062 Retail&lt;10th sf Retail<10th sf
+25921 Retail&lt;10th sf Retail<10th sf
+19782 Retail&lt;10th sf Retail<10th sf
+24316 Retail&lt;10th sf Retail<10th sf
+21026 Retail&lt;10th sf Retail<10th sf
+20726 Retail&lt;10th sf Retail<10th sf
+20285 Retail&lt;10th sf Retail<10th sf
+
+
+---------------------- 4 
+# times there were 4 unique values: 2 
+                      apd29 eks36_ps579              grs37_hak25 jh938_cps46_aew54
+17948 2 Family, Vacant Land Vacant Land 2 Family     Vacant Land          2 Family
+19881                   Old                                 Old          Old Style
+      mam352_lcr33 mjb249_ael52
+17948     2 Family     2 Family
+19881    Old Style          Old
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> model 
+
+
+---------------------- 2 
+# times there were 2 unique values: 17450 
+              apd29   eks36_ps579   grs37_hak25 jh938_cps46_aew54  mam352_lcr33
+14652 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+15251 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+23516 Single Family Single Family Single Family     Single Family Single Family
+17382 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+11841 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+20637 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+8258  Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+12713 Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+25680 Single Family Single Family Single Family     Single Family Single Family
+1521  Multi-Fam 2-4 Multi-Fam 2-4 Multi-Fam 2-4     Multi-Fam 2-4 Multi-Fam 2-4
+      mjb249_ael52
+14652         <NA>
+15251         <NA>
+23516         <NA>
+17382         <NA>
+11841         <NA>
+20637         <NA>
+8258          <NA>
+12713         <NA>
+25680         <NA>
+1521          <NA>
+
+
+---------------------- 3 
+# times there were 3 unique values: 5563 
+           apd29     eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+3794   Res Condo  MODELRes Condo   Res Condo              <NA>    Res Condo
+11325 Commercial MODELCommercial  Commercial              <NA>   Commercial
+10026 Ind/Lg Com MODELInd/Lg Com  Ind/Lg Com              <NA>   Ind/Lg Com
+22464  Res Condo  MODELRes Condo   Res Condo              <NA>    Res Condo
+5993   Res Condo  MODELRes Condo   Res Condo              <NA>    Res Condo
+9065  Commercial MODELCommercial  Commercial              <NA>   Commercial
+3511   Res Condo  MODELRes Condo   Res Condo              <NA>    Res Condo
+2263   Res Condo  MODELRes Condo   Res Condo              <NA>    Res Condo
+12320 Commercial MODELCommercial  Commercial              <NA>   Commercial
+13643 Commercial MODELCommercial  Commercial              <NA>   Commercial
+      mjb249_ael52
+3794          <NA>
+11325         <NA>
+10026         <NA>
+22464         <NA>
+5993          <NA>
+9065          <NA>
+3511          <NA>
+2263          <NA>
+12320         <NA>
+13643         <NA>
+
+
+---------------------- 4 
+# times there were 4 unique values: 1 
+                                                                                                                                                 apd29
+20462 PROJECT  OFFENDER REINTEGRATION, OwnerPROJECT  OFFENDER REINTEGRATION, PROJECT  OFFENDER REINTEGRATION$515,0001  8715/  6407/27/2011, Commercial
+          eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+20462 MODELCommercial  Commercial              <NA>   Commercial         <NA>
+
+
+---------------------- 5 
+# times there were 5 unique values: 1 
+                                                                                                                   apd29
+16422 PROJECT  OFFENDERS, OwnerPROJECT  OFFENDERS, PROJECT  OFFENDERS$2,300,000&nbsp;  9241/ 3080001/29/2015, Commercial
+          eks36_ps579               grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+16422 MODELCommercial Commercial     Commercial              <NA>   Commercial
+      mjb249_ael52
+16422         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> grade 
+
+
+---------------------- 2 
+# times there were 2 unique values: 8015 
+              apd29 eks36_ps579   grs37_hak25 jh938_cps46_aew54  mam352_lcr33
+22460       Average        <NA>       Average              <NA>       Average
+5700           Good        <NA>          Good              <NA>          Good
+16107          <NA>        <NA>          <NA>              <NA>              
+5266           Good        <NA>          Good              <NA>          Good
+16323       Average        <NA>       Average              <NA>       Average
+26468 Above Average        <NA> Above Average              <NA> Above Average
+13145      Ave/Good        <NA>      Ave/Good              <NA>      Ave/Good
+20548          <NA>        <NA>          <NA>              <NA>              
+6422        Average        <NA>       Average              <NA>       Average
+13503          <NA>        <NA>          <NA>              <NA>              
+       mjb249_ael52
+22460       Average
+5700           Good
+16107          <NA>
+5266           Good
+16323       Average
+26468 Above Average
+13145      Ave/Good
+20548          <NA>
+6422        Average
+13503          <NA>
+
+
+---------------------- 3 
+# times there were 3 unique values: 471 
+                    apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+10970 Ave/Good, Very Good        <NA>    Ave/Good              <NA>     Ave/Good
+4773    Ave/Good, Average        <NA>    Ave/Good              <NA>     Ave/Good
+13601       Average, Good        <NA>     Average              <NA>      Average
+20140       Good, Average        <NA>        Good              <NA>         Good
+5152  Ave/Good, Very Good        <NA>    Ave/Good              <NA>     Ave/Good
+12454       Good, Average        <NA>        Good              <NA>         Good
+14973           GRADE A++        <NA>         A++              <NA>    GRADE A++
+15124 Good, Above Average        <NA>        Good              <NA>         Good
+8063  Good, Above Average        <NA>        Good              <NA>         Good
+14157  Very Good, Average        <NA>   Very Good              <NA>    Very Good
+      mjb249_ael52
+10970     Ave/Good
+4773      Ave/Good
+13601      Average
+20140         Good
+5152      Ave/Good
+12454         Good
+14973    GRADE A++
+15124         Good
+8063          Good
+14157    Very Good
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> occupancy 
+
+
+---------------------- 2 
+# times there were 2 unique values: 2 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+16422    68          67          68                67           67           67
+17948     1           1        <NA>                 1            1            1
+
+
+---------------------- 3 
+# times there were 3 unique values: 1 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+12087     0        <NA>        <NA>              <NA>       &nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> actype 
+
+
+---------------------- 2 
+# times there were 2 unique values: 31 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+19887  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+3968   <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+19299  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+16601  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+17462  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+16581  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+21670  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+20343  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+19297  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+19311  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+
+
+---------------------- 3 
+# times there were 3 unique values: 2280 
+        apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33   mjb249_ael52
+16654    None        <NA>        None              <NA>         None    AC TypeNone
+20304    None        <NA>        None              <NA>         None    AC TypeNone
+13659    None        <NA>        None              <NA>         None    AC TypeNone
+10734    None        <NA>        None              <NA>         None    AC TypeNone
+10370 Central        <NA>     Central              <NA>      Central AC TypeCentral
+24658 Central        <NA>     Central              <NA>      Central AC TypeCentral
+15532    None        <NA>        None              <NA>         None    AC TypeNone
+2123  Partial        <NA>     Partial              <NA>      Partial AC TypePartial
+24800 Central        <NA>     Central              <NA>      Central AC TypeCentral
+10796    None        <NA>        None              <NA>         None    AC TypeNone
+
+
+---------------------- 5 
+# times there were 5 unique values: 1 
+              apd29 eks36_ps579      grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+16422 None, Central        <NA> None     Central              <NA>         None
+      mjb249_ael52
+16422  AC TypeNone
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> bathstyle 
+
+
+---------------------- 2 
+# times there were 2 unique values: 2592 
+              apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33
+10513 ABOVE AVERAGE        <NA>        <NA>              <NA>         <NA>
+22213       AVERAGE        <NA>        <NA>              <NA>         <NA>
+20167          <NA>        <NA>        <NA>            &nbsp;         <NA>
+17017       AVERAGE        <NA>        <NA>              <NA>         <NA>
+19874       AVERAGE        <NA>        <NA>              <NA>         <NA>
+11311       AVERAGE        <NA>        <NA>              <NA>         <NA>
+18409       AVERAGE        <NA>        <NA>              <NA>         <NA>
+14694       AVERAGE        <NA>        <NA>              <NA>         <NA>
+15103          <NA>        <NA>        <NA>            &nbsp;         <NA>
+12121       AVERAGE        <NA>        <NA>              <NA>         <NA>
+      mjb249_ael52
+10513         <NA>
+22213         <NA>
+20167         <NA>
+17017         <NA>
+19874         <NA>
+11311         <NA>
+18409         <NA>
+14694         <NA>
+15103         <NA>
+12121         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> kstyle 
+
+
+---------------------- 2 
+# times there were 2 unique values: 310 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+15872  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+15119  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+20157  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+11888  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+15091  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+11638  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+4678   <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+1570   <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+20334  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+11617  <NA>        <NA>        <NA>            &nbsp;         <NA>         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> multibuilding 
+
+
+---------------------- 2 
+# times there were 2 unique values: 798 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+13356    NA          NA          NA                NA            0           NA
+22382    NA          NA          NA                NA            0           NA
+4735     NA          NA          NA                NA            0           NA
+8591     NA          NA          NA                NA            0           NA
+5832     NA          NA          NA                NA            0           NA
+23678    NA          NA          NA                NA            0           NA
+9081     NA          NA          NA                NA            0           NA
+13952    NA          NA          NA                NA            0           NA
+10100    NA          NA          NA                NA            0           NA
+18451    NA          NA          NA                NA            0           NA
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> exval 
+
+
+---------------------- 2 
+# times there were 2 unique values: 1506 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+22912   3900        3900        3900              3900         3900         3100
+24434   6900        6900        6900              6900         6900         6100
+13206 130000      130000      130000            130000       130000         2300
+440     4900        4900        4900              4900         4900         3900
+21346   4400        4400        4400              4400         4400         3500
+12652   4400        4400        4400              4400         4400         3500
+14237   3900        3900        3900              3900         3900         3100
+22759   4400        4400        4400              4400         4400         3500
+6994  104100      104100      104100            104100       104100        59400
+22846   4400        4400        4400              4400         4400         3500
+
+
+---------------------- 3 
+# times there were 3 unique values: 2 
+        apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+13847 1568694     1568694     1116089           1568694      1568694       502894
+15033 3292600     3251500     3292600           3292600      3292600      1122500
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> garagesqft 
+
+
+---------------------- 2 
+# times there were 2 unique values: 2868 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+12818   552          NA         552                NA          552           NA
+26947   228          NA         228                NA          228           NA
+3032    220          NA         220                NA          220           NA
+12284   378          NA         378                NA          378           NA
+3463     NA          NA           0                NA           NA           NA
+27274   420          NA         420                NA          420           NA
+6528    308          NA         308                NA          308           NA
+23315   190          NA         190                NA          190           NA
+25906   216          NA         216                NA          216           NA
+25332   576          NA         576                NA          576           NA
+
+
+---------------------- 3 
+# times there were 3 unique values: 6165 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+17617    NA        1400         180                NA           NA          180
+22684    NA        4300         360               360           NA          360
+25107    NA        7200         600               600           NA          600
+25226    NA        2900         240               240           NA          240
+26446    NA        2900         240               240           NA          240
+15623    NA        6200         513               513           NA          513
+7327     NA        9100         760               760           NA          760
+24401    NA        4800         400               400           NA          400
+24213    NA        1400         192               192           NA          192
+10327    NA        3200         264               264           NA          264
+
+
+---------------------- 4 
+# times there were 4 unique values: 107 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+17236    NA        5300        1188               440           NA          440
+12135    NA        4300         936               360           NA          360
+6583     NA        1600         840               600           NA          600
+23072    NA        3300         476               272           NA          272
+3168     NA        5000         686               416           NA          416
+12184    NA        6600         770               550           NA          550
+20025    NA         800         748               352           NA          352
+7689     NA       19000        3168              1584           NA         1584
+21445   267        2700         495               228          267          228
+25306   380        4800         780               400          380          400
+
+
+---------------------- 5 
+# times there were 5 unique values: 5 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+2109    288       10100         963                NA          288          675
+15769    NA       21500        2262               832           NA         1430
+12677    NA       41600        1200               360           NA          840
+16763    NA       15600        1225               600           NA          625
+21442   200        4300         488                NA          200          288
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> date5 
+
+
+---------------------- 2 
+# times there were 2 unique values: 299 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+6742   <NA>  08/22/1994  08/22/1994        08/22/1994   08/22/1994   08/22/1994
+15474  <NA>  05/25/1990  05/25/1990        05/25/1990   05/25/1990   05/25/1990
+18728  <NA>  10/23/1991  10/23/1991        10/23/1991   10/23/1991   10/23/1991
+15391  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+14643  <NA>  02/28/1979  02/28/1979        02/28/1979   02/28/1979   02/28/1979
+2488   <NA>  07/01/1996  07/01/1996        07/01/1996   07/01/1996   07/01/1996
+5003   <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+17148  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+5629   <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+11238  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+
+
+---------------------- 3 
+# times there were 3 unique values: 1 
+     apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+2449  <NA>      &nbsp;  1071&nbsp;            &nbsp;   1071&nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> price5 
+
+
+---------------------- 2 
+# times there were 2 unique values: 6480 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+26899      0           0           0                 0           NA            0
+16651      0           0           0                 0           NA            0
+8466       0           0           0                 0           NA            0
+13248      0           0           0                 0           NA            0
+2246       0           0           0                 0           NA            0
+25177 100000      100000      100000            100000        10000       100000
+8207   34000       34000       34000             34000         3400        34000
+25997 219000      219000      219000            219000        21900       219000
+4948       0           0           0                 0           NA            0
+3475       0           0           0                 0           NA            0
+
+
+---------------------- 3 
+# times there were 3 unique values: 79 
+       apd29 eks36_ps579  grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+22920  38000       38000           NA             38000         3800        38000
+12823 140000      140000           NA            140000        14000       140000
+10045  47500       47500           NA             47500         4750        47500
+8080  163000      163000 163000172822            163000       163000           NA
+5589   32000       32000           NA             32000         3200        32000
+25107  49500       49500           NA             49500         4950        49500
+7343  138000      138000           NA            138000        13800       138000
+8902   65000       65000           NA             65000         6500        65000
+8957    5000        5000           NA              5000          500         5000
+14911  45000       45000           NA             45000         4500        45000
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> buyer5 
+
+
+---------------------- 2 
+# times there were 2 unique values: 1445 
+                               apd29                    eks36_ps579
+19525               BELFORT MARIE Y                BELFORT MARIE Y 
+18863 REGIONAL HOUSING REHAB       * REGIONAL HOUSING REHAB       *
+26639         MCNULTY DANIEL H (EST)         MCNULTY DANIEL H (EST)
+10831                 FORMAN ALAN S                  FORMAN ALAN S 
+7828               ROSAZZA  PETER A               ROSAZZA  PETER A 
+19757        DAVIS DARRYL + MARY LOU        DAVIS DARRYL + MARY LOU
+11896               BOHAN PATRICK W                BOHAN PATRICK W 
+4056    VITOLO CHARLES 1/3 JERRY 2/3   VITOLO CHARLES 1/3 JERRY 2/3
+2839                 SHAW EVERETT R                 SHAW EVERETT R 
+17098     AAMES CAPITAL CORPORATION      AAMES CAPITAL CORPORATION 
+                     grs37_hak25              jh938_cps46_aew54
+19525            BELFORT MARIE Y               BELFORT MARIE Y 
+18863     REGIONAL HOUSING REHAB REGIONAL HOUSING REHAB       *
+26639       MCNULTY DANIEL H EST         MCNULTY DANIEL H (EST)
+10831              FORMAN ALAN S                 FORMAN ALAN S 
+7828            ROSAZZA  PETER A              ROSAZZA  PETER A 
+19757     DAVIS DARRYL  MARY LOU        DAVIS DARRYL + MARY LOU
+11896            BOHAN PATRICK W               BOHAN PATRICK W 
+4056  VITOLO CHARLES 13 JERRY 23   VITOLO CHARLES 1/3 JERRY 2/3
+2839              SHAW EVERETT R                SHAW EVERETT R 
+17098  AAMES CAPITAL CORPORATION     AAMES CAPITAL CORPORATION 
+                        mam352_lcr33                   mjb249_ael52
+19525               BELFORT MARIE Y                BELFORT MARIE Y 
+18863 REGIONAL HOUSING REHAB       * REGIONAL HOUSING REHAB       *
+26639         MCNULTY DANIEL H (EST)         MCNULTY DANIEL H (EST)
+10831                 FORMAN ALAN S                  FORMAN ALAN S 
+7828               ROSAZZA  PETER A               ROSAZZA  PETER A 
+19757        DAVIS DARRYL + MARY LOU        DAVIS DARRYL + MARY LOU
+11896               BOHAN PATRICK W                BOHAN PATRICK W 
+4056    VITOLO CHARLES 1/3 JERRY 2/3   VITOLO CHARLES 1/3 JERRY 2/3
+2839                 SHAW EVERETT R                 SHAW EVERETT R 
+17098     AAMES CAPITAL CORPORATION      AAMES CAPITAL CORPORATION 
+
+
+---------------------- 3 
+# times there were 3 unique values: 1122 
+                               apd29                            eks36_ps579
+20082 TAYLOR ARTHUR L & JOANNE &SURV TAYLOR ARTHUR L &amp; JOANNE &amp;SURV
+25191     PURSELL THOMAS B & MARY B          PURSELL THOMAS B &amp; MARY B 
+10796 NOBLE GILBERT L & MALMBORG   *     NOBLE GILBERT L &amp; MALMBORG   *
+2357       BALLARD WAYNE & FELICIA B          BALLARD WAYNE &amp; FELICIA B
+6504  WULFF THOMAS M & MARTIN DIANE      WULFF THOMAS M &amp; MARTIN DIANE 
+6576   ROSARIO SAMUEL P & CAROLYN J       ROSARIO SAMUEL P &amp; CAROLYN J 
+10647          A & A PROPERTIES LLC               A &amp; A PROPERTIES LLC 
+7327      DAWSON JANET & RUIZ ANDREW         DAWSON JANET &amp; RUIZ ANDREW
+4538      GARGUILO ANTHONY A & MARIE         GARGUILO ANTHONY A &amp; MARIE
+11545    CAMPBELL DAVID & ELIZABETH         CAMPBELL DAVID &amp; ELIZABETH 
+                       grs37_hak25              jh938_cps46_aew54
+20082 TAYLOR ARTHUR L  JOANNE SURV TAYLOR ARTHUR L & JOANNE &SURV
+25191     PURSELL THOMAS B  MARY B     PURSELL THOMAS B & MARY B 
+10796    NOBLE GILBERT L  MALMBORG NOBLE GILBERT L & MALMBORG   *
+2357      BALLARD WAYNE  FELICIA B      BALLARD WAYNE & FELICIA B
+6504  WULFF THOMAS M  MARTIN DIANE WULFF THOMAS M & MARTIN DIANE 
+6576   ROSARIO SAMUEL P  CAROLYN J  ROSARIO SAMUEL P & CAROLYN J 
+10647          A  A PROPERTIES LLC          A & A PROPERTIES LLC 
+7327     DAWSON JANET  RUIZ ANDREW     DAWSON JANET & RUIZ ANDREW
+4538     GARGUILO ANTHONY A  MARIE     GARGUILO ANTHONY A & MARIE
+11545    CAMPBELL DAVID  ELIZABETH    CAMPBELL DAVID & ELIZABETH 
+                        mam352_lcr33                   mjb249_ael52
+20082 TAYLOR ARTHUR L & JOANNE &SURV TAYLOR ARTHUR L & JOANNE &SURV
+25191     PURSELL THOMAS B & MARY B      PURSELL THOMAS B & MARY B 
+10796 NOBLE GILBERT L & MALMBORG   * NOBLE GILBERT L & MALMBORG   *
+2357       BALLARD WAYNE & FELICIA B      BALLARD WAYNE & FELICIA B
+6504  WULFF THOMAS M & MARTIN DIANE  WULFF THOMAS M & MARTIN DIANE 
+6576   ROSARIO SAMUEL P & CAROLYN J   ROSARIO SAMUEL P & CAROLYN J 
+10647          A & A PROPERTIES LLC           A & A PROPERTIES LLC 
+7327      DAWSON JANET & RUIZ ANDREW     DAWSON JANET & RUIZ ANDREW
+4538      GARGUILO ANTHONY A & MARIE     GARGUILO ANTHONY A & MARIE
+11545    CAMPBELL DAVID & ELIZABETH     CAMPBELL DAVID & ELIZABETH 
+
+
+---------------------- 4 
+# times there were 4 unique values: 14 
+                                        apd29
+19845             CALDERON RAMIRO & LEONISA &
+18028            GROGINS DANIEL & FURST BRUCE
+5590               NUNEZ EDUARDO & NUNEZ IRIS
+6353           DATZENKO DARISE J & JULIANE M 
+10133 FRAGOLA ELEANOR & FRANK J 47% ELEANOR L
+18109            JENKINS DONALD HUNT EVELYN &
+7969             GRAUER ELIZABETH & LEONARD &
+17302  DABNEY RODNEY J TARA K JACINTA & LATAN
+15234  ANNETTE WILLIAMEMILY & FERRONE VINCENT
+9892  DELUCIA MICHAEL CANALI BARBARA & D&M BU
+                                          eks36_ps579
+19845             CALDERON RAMIRO &amp; LEONISA &amp;
+18028                GROGINS DANIEL &amp; FURST BRUCE
+5590                   NUNEZ EDUARDO &amp; NUNEZ IRIS
+6353               DATZENKO DARISE J &amp; JULIANE M 
+10133     FRAGOLA ELEANOR &amp; FRANK J 47% ELEANOR L
+18109                JENKINS DONALD HUNT EVELYN &amp;
+7969             GRAUER ELIZABETH &amp; LEONARD &amp;
+17302      DABNEY RODNEY J TARA K JACINTA &amp; LATAN
+15234      ANNETTE WILLIAMEMILY &amp; FERRONE VINCENT
+9892  DELUCIA MICHAEL CANALI BARBARA &amp; D&amp;M BU
+                                grs37_hak25                        jh938_cps46_aew54
+19845              CALDERON RAMIRO  LEONISA             CALDERON, RAMIRO & LEONISA &
+18028           GROGINS DANIEL  FURST BRUCE           GROGINS, DANIEL & FURST, BRUCE
+5590              NUNEZ EDUARDO  NUNEZ IRIS              NUNEZ, EDUARDO & NUNEZ IRIS
+6353           DATZENKO DARISE J  JULIANE M          DATZENKO, DARISE J & JULIANE M 
+10133 FRAGOLA ELEANOR  FRANK J 47 ELEANOR L FRAGOLA ELEANOR & FRANK J 47%, ELEANOR L
+18109            JENKINS DONALD HUNT EVELYN            JENKINS DONALD, HUNT EVELYN &
+7969              GRAUER ELIZABETH  LEONARD            GRAUER, ELIZABETH & LEONARD &
+17302 DABNEY RODNEY J TARA K JACINTA  LATAN DABNEY RODNEY J, TARA K, JACINTA & LATAN
+15234 ANNETTE WILLIAMEMILY  FERRONE VINCENT ANNETTE WILLIAM,EMILY & FERRONE VINCENT,
+9892  DELUCIA MICHAEL CANALI BARBARA  DM BU DELUCIA MICHAEL, CANALI BARBARA & D&M BU
+                                 mam352_lcr33
+19845             CALDERON RAMIRO & LEONISA &
+18028            GROGINS DANIEL & FURST BRUCE
+5590               NUNEZ EDUARDO & NUNEZ IRIS
+6353           DATZENKO DARISE J & JULIANE M 
+10133 FRAGOLA ELEANOR & FRANK J 47% ELEANOR L
+18109            JENKINS DONALD HUNT EVELYN &
+7969             GRAUER ELIZABETH & LEONARD &
+17302  DABNEY RODNEY J TARA K JACINTA & LATAN
+15234  ANNETTE WILLIAMEMILY & FERRONE VINCENT
+9892  DELUCIA MICHAEL CANALI BARBARA & D&M BU
+                                 mjb249_ael52
+19845             CALDERON RAMIRO & LEONISA &
+18028            GROGINS DANIEL & FURST BRUCE
+5590               NUNEZ EDUARDO & NUNEZ IRIS
+6353           DATZENKO DARISE J & JULIANE M 
+10133 FRAGOLA ELEANOR & FRANK J 47% ELEANOR L
+18109            JENKINS DONALD HUNT EVELYN &
+7969             GRAUER ELIZABETH & LEONARD &
+17302  DABNEY RODNEY J TARA K JACINTA & LATAN
+15234  ANNETTE WILLIAMEMILY & FERRONE VINCENT
+9892  DELUCIA MICHAEL CANALI BARBARA & D&M BU
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> date4 
+
+
+---------------------- 2 
+# times there were 2 unique values: 535 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+10236  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+2566   <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+22315  <NA>  04/23/1999  04/23/1999        04/23/1999   04/23/1999   04/23/1999
+658    <NA>  05/18/1998  05/18/1998        05/18/1998   05/18/1998   05/18/1998
+5934   <NA>  03/21/2000  03/21/2000        03/21/2000   03/21/2000   03/21/2000
+15252  <NA>  07/17/1998  07/17/1998        07/17/1998   07/17/1998   07/17/1998
+4660   <NA>  03/18/1992  03/18/1992        03/18/1992   03/18/1992   03/18/1992
+12077  <NA>  08/29/1980  08/29/1980        08/29/1980   08/29/1980   08/29/1980
+6392   <NA>  04/21/1997  04/21/1997        04/21/1997   04/21/1997   04/21/1997
+7217   <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+
+
+---------------------- 3 
+# times there were 3 unique values: 3 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+10346  <NA>      &nbsp;  7025&nbsp;            &nbsp;   7025&nbsp;         <NA>
+24496  <NA>      &nbsp;  1911&nbsp;            &nbsp;   1911&nbsp;         <NA>
+2278   <NA>      &nbsp;  p;25&nbsp;            &nbsp;   p;25&nbsp;         <NA>
+
+
+---------------------- 4 
+# times there were 4 unique values: 1 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+25369  <NA>      &nbsp;   891&nbsp;            &nbsp;    891&nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> price4 
+
+
+---------------------- 2 
+# times there were 2 unique values: 9739 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+18991  22500       22500       22500             22500         2250        22500
+11055      0           0           0                 0           NA            0
+17021      0           0           0                 0           NA            0
+3154   86000       86000       86000             86000         8600        86000
+14627 300000      300000      300000            300000        30000       300000
+9256       0           0           0                 0           NA            0
+23459      0           0           0                 0           NA            0
+2258  111500      111500      111500            111500        11150       111500
+6748       0           0           0                 0           NA            0
+7546       0           0           0                 0           NA            0
+
+
+---------------------- 3 
+# times there were 3 unique values: 121 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+5462   36500       36500           0             36500         3650        36500
+17450  22000       22000           0             22000         2200        22000
+19615   5000        5000           0              5000          500         5000
+26376      0           0       80575                 0           NA            0
+3977  123000      123000          NA            123000        12300       123000
+10227  60000       60000          NA             60000         6000        60000
+8216   67000       67000           0             67000         6700        67000
+2769  151000      151000           0            151000        15100       151000
+23024  65000       65000           0             65000         6500        65000
+27150      0           0      122570                 0           NA            0
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> buyer4 
+
+
+---------------------- 2 
+# times there were 2 unique values: 2299 
+                            apd29                 eks36_ps579
+11597              GOULD ROGER V               GOULD ROGER V 
+26265     LUGO-GONZALEZ GILBERTO      LUGO-GONZALEZ GILBERTO 
+14073            DEMARTINO GEMMA             DEMARTINO GEMMA 
+8615    ADDABBO DAPHENE T + MARIO   ADDABBO DAPHENE T + MARIO
+20195          CITY OF NEW HAVEN           CITY OF NEW HAVEN 
+15226 ACEVEDO WILSON D + CARMEN A ACEVEDO WILSON D + CARMEN A
+14806           CZEKALA PHILIP N            CZEKALA PHILIP N 
+21617             SCOTT ADELAIDE              SCOTT ADELAIDE 
+21330                 HUNTER BEN                  HUNTER BEN 
+21575         EINBINDER BEATRICE          EINBINDER BEATRICE 
+                     grs37_hak25           jh938_cps46_aew54
+11597              GOULD ROGER V              GOULD ROGER V 
+26265      LUGOGONZALEZ GILBERTO     LUGO-GONZALEZ GILBERTO 
+14073            DEMARTINO GEMMA            DEMARTINO GEMMA 
+8615    ADDABBO DAPHENE T  MARIO   ADDABBO DAPHENE T + MARIO
+20195          CITY OF NEW HAVEN          CITY OF NEW HAVEN 
+15226 ACEVEDO WILSON D  CARMEN A ACEVEDO WILSON D + CARMEN A
+14806           CZEKALA PHILIP N           CZEKALA PHILIP N 
+21617             SCOTT ADELAIDE             SCOTT ADELAIDE 
+21330                 HUNTER BEN                 HUNTER BEN 
+21575         EINBINDER BEATRICE         EINBINDER BEATRICE 
+                     mam352_lcr33                mjb249_ael52
+11597              GOULD ROGER V               GOULD ROGER V 
+26265     LUGO-GONZALEZ GILBERTO      LUGO-GONZALEZ GILBERTO 
+14073            DEMARTINO GEMMA             DEMARTINO GEMMA 
+8615    ADDABBO DAPHENE T + MARIO   ADDABBO DAPHENE T + MARIO
+20195          CITY OF NEW HAVEN           CITY OF NEW HAVEN 
+15226 ACEVEDO WILSON D + CARMEN A ACEVEDO WILSON D + CARMEN A
+14806           CZEKALA PHILIP N            CZEKALA PHILIP N 
+21617             SCOTT ADELAIDE              SCOTT ADELAIDE 
+21330                 HUNTER BEN                  HUNTER BEN 
+21575         EINBINDER BEATRICE          EINBINDER BEATRICE 
+
+
+---------------------- 3 
+# times there were 3 unique values: 1849 
+                               apd29                            eks36_ps579
+10172 GALLINELLI FRANK J & AMEENIE *     GALLINELLI FRANK J &amp; AMEENIE *
+9922               R & C ENTERPRISES                  R &amp; C ENTERPRISES
+252       DEFRANCESCO RALPH & ALBERT         DEFRANCESCO RALPH &amp; ALBERT
+9595    CONSIGLIO VINCENT & MATILDA        CONSIGLIO VINCENT &amp; MATILDA 
+27026      WIESNER MICHAEL A & ORNA           WIESNER MICHAEL A &amp; ORNA 
+18757 TAYLOR JOHN T & RACHEL O & SUR TAYLOR JOHN T &amp; RACHEL O &amp; SUR
+16327       BROWN ALLEN D & CAROL M            BROWN ALLEN D &amp; CAROL M 
+18141                 L&M GREENS LLC                     L&amp;M GREENS LLC
+9294           NARAIN SURINDER PAL &              NARAIN SURINDER PAL &amp;
+24614 PERECMAN ABE & LEA R & JAY H * PERECMAN ABE &amp; LEA R &amp; JAY H *
+                       grs37_hak25              jh938_cps46_aew54
+10172  GALLINELLI FRANK J  AMEENIE GALLINELLI FRANK J & AMEENIE *
+9922              R  C ENTERPRISES              R & C ENTERPRISES
+252      DEFRANCESCO RALPH  ALBERT     DEFRANCESCO RALPH & ALBERT
+9595    CONSIGLIO VINCENT  MATILDA   CONSIGLIO VINCENT & MATILDA 
+27026      WIESNER MICHAEL A  ORNA      WIESNER MICHAEL A & ORNA 
+18757 TAYLOR JOHN T  RACHEL O  SUR TAYLOR JOHN T & RACHEL O & SUR
+16327       BROWN ALLEN D  CAROL M       BROWN ALLEN D & CAROL M 
+18141                LM GREENS LLC                 L&M GREENS LLC
+9294           NARAIN SURINDER PAL          NARAIN SURINDER PAL &
+24614   PERECMAN ABE  LEA R  JAY H PERECMAN ABE & LEA R & JAY H *
+                        mam352_lcr33                   mjb249_ael52
+10172 GALLINELLI FRANK J & AMEENIE * GALLINELLI FRANK J & AMEENIE *
+9922               R & C ENTERPRISES              R & C ENTERPRISES
+252       DEFRANCESCO RALPH & ALBERT     DEFRANCESCO RALPH & ALBERT
+9595    CONSIGLIO VINCENT & MATILDA    CONSIGLIO VINCENT & MATILDA 
+27026      WIESNER MICHAEL A & ORNA       WIESNER MICHAEL A & ORNA 
+18757 TAYLOR JOHN T & RACHEL O & SUR TAYLOR JOHN T & RACHEL O & SUR
+16327       BROWN ALLEN D & CAROL M        BROWN ALLEN D & CAROL M 
+18141                 L&M GREENS LLC                 L&M GREENS LLC
+9294           NARAIN SURINDER PAL &          NARAIN SURINDER PAL &
+24614 PERECMAN ABE & LEA R & JAY H * PERECMAN ABE & LEA R & JAY H *
+
+
+---------------------- 4 
+# times there were 4 unique values: 21 
+                                     apd29                              eks36_ps579
+255             DELILLO MICHAEL MARIANNE &           DELILLO MICHAEL MARIANNE &amp;
+10168       PARILLO MICHAEL J RALPH J JR &       PARILLO MICHAEL J RALPH J JR &amp;
+1467  CANGIANO ANTHONY JR ELIZABETH & JOHN CANGIANO ANTHONY JR ELIZABETH &amp; JOHN
+2473         DOYLE LORRAINE & THOMAS     *        DOYLE LORRAINE &amp; THOMAS     *
+324         CUMMINGS MARY JOOS KAREN ANN &       CUMMINGS MARY JOOS KAREN ANN &amp;
+10879      MCCORMICK JOHN & PASCAREILI GIA      MCCORMICK JOHN &amp; PASCAREILI GIA
+6714         PENGSAVATH SANGVONE & SAYKHAM        PENGSAVATH SANGVONE &amp; SAYKHAM
+26074     BARNES CRAIG & JAMES ROMA SHARON     BARNES CRAIG &amp; JAMES ROMA SHARON
+23894         MILONE MARILYN D & MICHAEL A         MILONE MARILYN D &amp; MICHAEL A
+11119      HIZA CHRISTOPHER J & CRYSTAL M.      HIZA CHRISTOPHER J &amp; CRYSTAL M.
+                              grs37_hak25                     jh938_cps46_aew54
+255              DELILLO MICHAEL MARIANNE           DELILLO MICHAEL, MARIANNE &
+10168        PARILLO MICHAEL J RALPH J JR       PARILLO MICHAEL J, RALPH J JR &
+1467  CANGIANO ANTHONY JR ELIZABETH  JOHN CANGIANO ANTHONY JR, ELIZABETH & JOHN
+2473               DOYLE LORRAINE  THOMAS        DOYLE LORRAINE & THOMAS,     *
+324          CUMMINGS MARY JOOS KAREN ANN       CUMMINGS MARY, JOOS KAREN ANN &
+10879      MCCORMICK JOHN  PASCAREILI GIA      MCCORMICK, JOHN & PASCAREILI GIA
+6714         PENGSAVATH SANGVONE  SAYKHAM         PENGSAVATH SANGVONE & SAYKHAM
+26074     BARNES CRAIG  JAMES ROMA SHARON     BARNES CRAIG & JAMES, ROMA SHARON
+23894         MILONE MARILYN D  MICHAEL A         MILONE, MARILYN D & MICHAEL A
+11119       HIZA CHRISTOPHER J  CRYSTAL M      HIZA CHRISTOPHER J, & CRYSTAL M.
+                              mam352_lcr33                         mjb249_ael52
+255             DELILLO MICHAEL MARIANNE &           DELILLO MICHAEL MARIANNE &
+10168       PARILLO MICHAEL J RALPH J JR &       PARILLO MICHAEL J RALPH J JR &
+1467  CANGIANO ANTHONY JR ELIZABETH & JOHN CANGIANO ANTHONY JR ELIZABETH & JOHN
+2473         DOYLE LORRAINE & THOMAS     *        DOYLE LORRAINE & THOMAS     *
+324         CUMMINGS MARY JOOS KAREN ANN &       CUMMINGS MARY JOOS KAREN ANN &
+10879      MCCORMICK JOHN & PASCAREILI GIA      MCCORMICK JOHN & PASCAREILI GIA
+6714         PENGSAVATH SANGVONE & SAYKHAM        PENGSAVATH SANGVONE & SAYKHAM
+26074     BARNES CRAIG & JAMES ROMA SHARON     BARNES CRAIG & JAMES ROMA SHARON
+23894         MILONE MARILYN D & MICHAEL A         MILONE MARILYN D & MICHAEL A
+11119      HIZA CHRISTOPHER J & CRYSTAL M.      HIZA CHRISTOPHER J & CRYSTAL M.
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> date3 
+
+
+---------------------- 2 
+# times there were 2 unique values: 895 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+10964  <NA>  08/25/1995  08/25/1995        08/25/1995   08/25/1995   08/25/1995
+13153  <NA>  05/06/1987  05/06/1987        05/06/1987   05/06/1987   05/06/1987
+14746  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+13061  <NA>  09/28/1992  09/28/1992        09/28/1992   09/28/1992   09/28/1992
+2128   <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+15202  <NA>  11/02/1990  11/02/1990        11/02/1990   11/02/1990   11/02/1990
+14956  <NA>  10/02/2003  10/02/2003        10/02/2003   10/02/2003   10/02/2003
+22024  <NA>  12/29/1994  12/29/1994        12/29/1994   12/29/1994   12/29/1994
+7887   <NA>  02/25/1998  02/25/1998        02/25/1998   02/25/1998   02/25/1998
+5934   <NA>  06/16/2000  06/16/2000        06/16/2000   06/16/2000   06/16/2000
+
+
+---------------------- 3 
+# times there were 3 unique values: 4 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+24500  <NA>      &nbsp;  1800&nbsp;            &nbsp;   1800&nbsp;         <NA>
+24439  <NA>      &nbsp;  sp;1&nbsp;            &nbsp;   sp;1&nbsp;         <NA>
+14198  <NA>      &nbsp;  4200&nbsp;            &nbsp;   4200&nbsp;         <NA>
+25165  <NA>      &nbsp;  8825&nbsp;            &nbsp;   8825&nbsp;         <NA>
+
+
+---------------------- 4 
+# times there were 4 unique values: 1 
+     apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+2156  <NA>      &nbsp;     7&nbsp;            &nbsp;      7&nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> price3 
+
+
+---------------------- 2 
+# times there were 2 unique values: 14042 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+3664       0           0           0                 0           NA            0
+10116      0           0           0                 0           NA            0
+1311       0           0           0                 0           NA            0
+240        0           0           0                 0           NA            0
+14643      0           0           0                 0           NA            0
+23183  73000       73000       73000             73000         7300        73000
+8582  120000      120000      120000            120000        12000       120000
+14048 425000      425000      425000            425000        42500       425000
+8580       0           0           0                 0           NA            0
+25915      0           0           0                 0           NA            0
+
+
+---------------------- 3 
+# times there were 3 unique values: 144 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+7492  124000      124000          NA            124000        12400       124000
+2021   45000       45000       47000             45000         4500        45000
+12214 382000      382000           0            382000        38200       382000
+22792 207000      207000          NA            207000        20700       207000
+22894 135000      135000           0            135000        13500       135000
+6666   72500       72500      139900             72500         7250        72500
+16451  15000       15000       30000             15000         1500        15000
+20549      0           0       22500                 0           NA            0
+11871 140000      140000           0            140000        14000       140000
+15964  39500       39500          NA             39500         3950        39500
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> buyer3 
+
+
+---------------------- 2 
+# times there were 2 unique values: 3257 
+                              apd29                   eks36_ps579
+8658               CORTES WILFREDO               CORTES WILFREDO 
+3470  BANK OF BOSTON CONN + POULIOT BANK OF BOSTON CONN + POULIOT
+139             POLAYES ASSOCIATES            POLAYES ASSOCIATES 
+24077                 SKEIST KEVIN                  SKEIST KEVIN 
+3627              MIRANDO SILVIO J              MIRANDO SILVIO J 
+16227                  FUSCO ELISA                   FUSCO ELISA 
+12840     JACKSON HERRICK (TRUSTEE)     JACKSON HERRICK (TRUSTEE)
+13381 GREENWICH AVENUE ASSOCIATION  GREENWICH AVENUE ASSOCIATION 
+27253  HAMMOND-SIMMONS TOYA SHAQUAN  HAMMOND-SIMMONS TOYA SHAQUAN
+4773  MOSKI ROBERT E + GERTRUDE V + MOSKI ROBERT E + GERTRUDE V +
+                       grs37_hak25             jh938_cps46_aew54
+8658               CORTES WILFREDO              CORTES WILFREDO 
+3470  BANK OF BOSTON CONN  POULIOT BANK OF BOSTON CONN + POULIOT
+139             POLAYES ASSOCIATES           POLAYES ASSOCIATES 
+24077                 SKEIST KEVIN                 SKEIST KEVIN 
+3627              MIRANDO SILVIO J             MIRANDO SILVIO J 
+16227                  FUSCO ELISA                  FUSCO ELISA 
+12840      JACKSON HERRICK TRUSTEE     JACKSON HERRICK (TRUSTEE)
+13381 GREENWICH AVENUE ASSOCIATION GREENWICH AVENUE ASSOCIATION 
+27253  HAMMONDSIMMONS TOYA SHAQUAN  HAMMOND-SIMMONS TOYA SHAQUAN
+4773    MOSKI ROBERT E  GERTRUDE V MOSKI ROBERT E + GERTRUDE V +
+                       mam352_lcr33                  mjb249_ael52
+8658               CORTES WILFREDO                CORTES WILFREDO
+3470  BANK OF BOSTON CONN + POULIOT BANK OF BOSTON CONN + POULIOT
+139             POLAYES ASSOCIATES             POLAYES ASSOCIATES
+24077                 SKEIST KEVIN                   SKEIST KEVIN
+3627              MIRANDO SILVIO J               MIRANDO SILVIO J
+16227                  FUSCO ELISA                    FUSCO ELISA
+12840     JACKSON HERRICK (TRUSTEE)     JACKSON HERRICK (TRUSTEE)
+13381 GREENWICH AVENUE ASSOCIATION   GREENWICH AVENUE ASSOCIATION
+27253  HAMMOND-SIMMONS TOYA SHAQUAN  HAMMOND-SIMMONS TOYA SHAQUAN
+4773  MOSKI ROBERT E + GERTRUDE V + MOSKI ROBERT E + GERTRUDE V +
+
+
+---------------------- 3 
+# times there were 3 unique values: 2343 
+                                   apd29                            eks36_ps579
+7420      JOYNER WILLIAM H & PEGGY & SUR JOYNER WILLIAM H &amp; PEGGY &amp; SUR
+2351             MESSENGER JAMES & JANIS            MESSENGER JAMES &amp; JANIS
+21407   CASEY JEFF C & GRENON JACQUELINE   CASEY JEFF C &amp; GRENON JACQUELINE
+21212    ARNOLD CHRISTOPHER M & STEVEN O    ARNOLD CHRISTOPHER M &amp; STEVEN O
+18102        JONES JAMES J & MICHELE B &    JONES JAMES J &amp; MICHELE B &amp;
+23266         VOIGT PHILIP P & SUSAN L &     VOIGT PHILIP P &amp; SUSAN L &amp;
+11182                PASSARIELLO LOUIS &                PASSARIELLO LOUIS &amp;
+4985  D&#39;AGOSTINO GLADYS F &BRADSHAW* D&#39;AGOSTINO GLADYS F &amp;BRADSHAW*
+11469     CHEN CHANGQING & YUAN XIAOLING     CHEN CHANGQING &amp; YUAN XIAOLING
+2113             RAFFONE MONICA & JOSEPH            RAFFONE MONICA &amp; JOSEPH
+                          grs37_hak25                  jh938_cps46_aew54
+7420     JOYNER WILLIAM H  PEGGY  SUR     JOYNER WILLIAM H & PEGGY & SUR
+2351           MESSENGER JAMES  JANIS            MESSENGER JAMES & JANIS
+21407 CASEY JEFF C  GRENON JACQUELINE   CASEY JEFF C & GRENON JACQUELINE
+21212  ARNOLD CHRISTOPHER M  STEVEN O    ARNOLD CHRISTOPHER M & STEVEN O
+18102        JONES JAMES J  MICHELE B        JONES JAMES J & MICHELE B &
+23266         VOIGT PHILIP P  SUSAN L         VOIGT PHILIP P & SUSAN L &
+11182               PASSARIELLO LOUIS                PASSARIELLO LOUIS &
+4985    D39AGOSTINO GLADYS F BRADSHAW D&#39;AGOSTINO GLADYS F &BRADSHAW*
+11469   CHEN CHANGQING  YUAN XIAOLING     CHEN CHANGQING & YUAN XIAOLING
+2113           RAFFONE MONICA  JOSEPH            RAFFONE MONICA & JOSEPH
+                            mam352_lcr33                       mjb249_ael52
+7420      JOYNER WILLIAM H & PEGGY & SUR     JOYNER WILLIAM H & PEGGY & SUR
+2351             MESSENGER JAMES & JANIS            MESSENGER JAMES & JANIS
+21407   CASEY JEFF C & GRENON JACQUELINE   CASEY JEFF C & GRENON JACQUELINE
+21212    ARNOLD CHRISTOPHER M & STEVEN O    ARNOLD CHRISTOPHER M & STEVEN O
+18102        JONES JAMES J & MICHELE B &        JONES JAMES J & MICHELE B &
+23266         VOIGT PHILIP P & SUSAN L &         VOIGT PHILIP P & SUSAN L &
+11182                PASSARIELLO LOUIS &                PASSARIELLO LOUIS &
+4985  D&#39;AGOSTINO GLADYS F &BRADSHAW* D&#39;AGOSTINO GLADYS F &BRADSHAW*
+11469     CHEN CHANGQING & YUAN XIAOLING     CHEN CHANGQING & YUAN XIAOLING
+2113             RAFFONE MONICA & JOSEPH            RAFFONE MONICA & JOSEPH
+
+
+---------------------- 4 
+# times there were 4 unique values: 872 
+                               apd29                        eks36_ps579
+21475  HOGAN THEODORE F JR & JEANNE   HOGAN THEODORE F JR &amp; JEANNE 
+25619   DEFRANCESCO VITO P & JOAN M    DEFRANCESCO VITO P &amp; JOAN M 
+19187      SHAW RAYMOND & MILDRED A       SHAW RAYMOND &amp; MILDRED A 
+19874 MENDILLO JOSEPH & CATHERINE D  MENDILLO JOSEPH &amp; CATHERINE D 
+20770         GILLIARD JOHN & SARAH          GILLIARD JOHN &amp; SARAH 
+497        PARK HEATH J & PIERINA M       PARK HEATH J &amp; PIERINA M 
+25444  LEDEWITZ MINDY & BAICH YARON   LEDEWITZ MINDY &amp; BAICH YARON 
+22389   QUICKMIRE JEANNE L CHERI J &   QUICKMIRE JEANNE L CHERI J &amp;
+9143      JEN HSIANMIN F & CHIUNG Y      JEN HSIANMIN F &amp; CHIUNG Y 
+1566     CONTE JOSEPH R & PHYLLIS A     CONTE JOSEPH R &amp; PHYLLIS A 
+                       grs37_hak25              jh938_cps46_aew54
+21475  HOGAN THEODORE F JR  JEANNE  HOGAN THEODORE F JR & JEANNE 
+25619   DEFRANCESCO VITO P  JOAN M   DEFRANCESCO VITO P & JOAN M 
+19187      SHAW RAYMOND  MILDRED A      SHAW RAYMOND & MILDRED A 
+19874 MENDILLO JOSEPH  CATHERINE D MENDILLO JOSEPH & CATHERINE D 
+20770         GILLIARD JOHN  SARAH         GILLIARD JOHN & SARAH 
+497        PARK HEATH J  PIERINA M      PARK HEATH J & PIERINA M 
+25444  LEDEWITZ MINDY  BAICH YARON  LEDEWITZ MINDY & BAICH YARON 
+22389   QUICKMIRE JEANNE L CHERI J  QUICKMIRE JEANNE L, CHERI J &
+9143      JEN HSIANMIN F  CHIUNG Y     JEN HSIANMIN F & CHIUNG Y 
+1566     CONTE JOSEPH R  PHYLLIS A    CONTE JOSEPH R & PHYLLIS A 
+                        mam352_lcr33                  mjb249_ael52
+21475  HOGAN THEODORE F JR & JEANNE   HOGAN THEODORE F JR & JEANNE
+25619   DEFRANCESCO VITO P & JOAN M    DEFRANCESCO VITO P & JOAN M
+19187      SHAW RAYMOND & MILDRED A       SHAW RAYMOND & MILDRED A
+19874 MENDILLO JOSEPH & CATHERINE D  MENDILLO JOSEPH & CATHERINE D
+20770         GILLIARD JOHN & SARAH          GILLIARD JOHN & SARAH
+497        PARK HEATH J & PIERINA M       PARK HEATH J & PIERINA M
+25444  LEDEWITZ MINDY & BAICH YARON   LEDEWITZ MINDY & BAICH YARON
+22389   QUICKMIRE JEANNE L CHERI J &  QUICKMIRE JEANNE L CHERI J &
+9143      JEN HSIANMIN F & CHIUNG Y      JEN HSIANMIN F & CHIUNG Y
+1566     CONTE JOSEPH R & PHYLLIS A     CONTE JOSEPH R & PHYLLIS A
+
+
+---------------------- 5 
+# times there were 5 unique values: 2 
+                                     apd29
+6400       OWENS ROBERT & HAMILTON ROBERT 
+10758  LANE ROBERT E & HELEN & THOMAS E & 
+                                           eks36_ps579
+6400               OWENS ROBERT &amp; HAMILTON ROBERT 
+10758  LANE ROBERT E &amp; HELEN &amp; THOMAS E &amp; 
+                         grs37_hak25                    jh938_cps46_aew54
+6400   OWENS ROBERT  HAMILTON ROBERT     OWENS ROBERT & HAMILTON, ROBERT 
+10758 LANE ROBERT E  HELEN  THOMAS E  LANE ROBERT E & HELEN & THOMAS E & 
+                             mam352_lcr33                       mjb249_ael52
+6400      OWENS ROBERT & HAMILTON ROBERT      OWENS ROBERT & HAMILTON ROBERT
+10758 LANE ROBERT E & HELEN & THOMAS E &  LANE ROBERT E & HELEN & THOMAS E &
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> date2 
+
+
+---------------------- 2 
+# times there were 2 unique values: 1617 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+7754   <NA>  05/30/2001  05/30/2001        05/30/2001   05/30/2001   05/30/2001
+2988   <NA>  11/17/1971  11/17/1971        11/17/1971   11/17/1971   11/17/1971
+8773   <NA>  09/05/1995  09/05/1995        09/05/1995   09/05/1995   09/05/1995
+8362   <NA>  08/07/1996  08/07/1996        08/07/1996   08/07/1996   08/07/1996
+14453  <NA>  04/28/1999  04/28/1999        04/28/1999   04/28/1999   04/28/1999
+21300  <NA>      &nbsp;        <NA>            &nbsp;         <NA>         <NA>
+4660   <NA>  08/05/1998  08/05/1998        08/05/1998   08/05/1998   08/05/1998
+7620   <NA>  10/31/1996  10/31/1996        10/31/1996   10/31/1996   10/31/1996
+5701   <NA>  10/15/2001  10/15/2001        10/15/2001   10/15/2001   10/15/2001
+10979  <NA>  03/23/1992  03/23/1992        03/23/1992   03/23/1992   03/23/1992
+
+
+---------------------- 3 
+# times there were 3 unique values: 1 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+21524  <NA>      &nbsp;  4400&nbsp;            &nbsp;   4400&nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> price2 
+
+
+---------------------- 2 
+# times there were 2 unique values: 19079 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+24512      0           0           0                 0           NA            0
+24918      0           0           0                 0           NA            0
+20691 389091      389091      389091            389091        38909       389091
+15223      0           0           0                 0           NA            0
+3811   21000       21000       21000             21000         2100        21000
+18192      0           0           0                 0           NA            0
+12832      0           0           0                 0           NA            0
+3591       0           0           0                 0           NA            0
+11091 295000      295000      295000            295000        29500       295000
+23292 153000      153000      153000            153000        15300       153000
+
+
+---------------------- 3 
+# times there were 3 unique values: 149 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+10663  70000       70000          NA             70000         7000        70000
+25251 165000      165000      275000            165000        16500       165000
+3583  250000      250000      132000            250000        25000       250000
+4320       0           0       67000                 0           NA            0
+22325 330000      330000           0            330000        33000       330000
+12064      0           0      275000                 0           NA            0
+6888       0           0       92590                 0           NA            0
+18999      0           0      230000                 0           NA            0
+22894      0           0      135000                 0           NA            0
+8846   46000       46000           0             46000         4600        46000
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> buyer2 
+
+
+---------------------- 2 
+# times there were 2 unique values: 4623 
+                                apd29                     eks36_ps579
+7396              MANNING CHRISTEL J              MANNING CHRISTEL J 
+14268          BRETT-SMITH HELENA M +          BRETT-SMITH HELENA M +
+8677               RAPUANO LEONARD A               RAPUANO LEONARD A 
+7286                   SUAREZ JOHN W                   SUAREZ JOHN W 
+22431                 HOWARD VERNELL                  HOWARD VERNELL 
+8732           FLYNN VERONICA M (EST)          FLYNN VERONICA M (EST)
+22024 THE 424 NH WHALLEY COMPANY LLC  THE 424 NH WHALLEY COMPANY LLC 
+24854                     TRI-RYC INC                     TRI-RYC INC
+7123           PROTO FRANK B + JOHN C          PROTO FRANK B + JOHN C
+18024              CITY OF NEW HAVEN               CITY OF NEW HAVEN 
+                         grs37_hak25               jh938_cps46_aew54
+7396              MANNING CHRISTEL J             MANNING CHRISTEL J 
+14268            BRETTSMITH HELENA M          BRETT-SMITH HELENA M +
+8677               RAPUANO LEONARD A              RAPUANO LEONARD A 
+7286                   SUAREZ JOHN W                  SUAREZ JOHN W 
+22431                 HOWARD VERNELL                 HOWARD VERNELL 
+8732            FLYNN VERONICA M EST          FLYNN VERONICA M (EST)
+22024 THE 424 NH WHALLEY COMPANY LLC THE 424 NH WHALLEY COMPANY LLC 
+24854                     TRIRYC INC                     TRI-RYC INC
+7123           PROTO FRANK B  JOHN C          PROTO FRANK B + JOHN C
+18024              CITY OF NEW HAVEN              CITY OF NEW HAVEN 
+                         mam352_lcr33                    mjb249_ael52
+7396              MANNING CHRISTEL J              MANNING CHRISTEL J 
+14268          BRETT-SMITH HELENA M +          BRETT-SMITH HELENA M +
+8677               RAPUANO LEONARD A               RAPUANO LEONARD A 
+7286                   SUAREZ JOHN W                   SUAREZ JOHN W 
+22431                 HOWARD VERNELL                  HOWARD VERNELL 
+8732           FLYNN VERONICA M (EST)          FLYNN VERONICA M (EST)
+22024 THE 424 NH WHALLEY COMPANY LLC  THE 424 NH WHALLEY COMPANY LLC 
+24854                     TRI-RYC INC                     TRI-RYC INC
+7123           PROTO FRANK B + JOHN C          PROTO FRANK B + JOHN C
+18024              CITY OF NEW HAVEN               CITY OF NEW HAVEN 
+
+
+---------------------- 3 
+# times there were 3 unique values: 4806 
+                                           apd29
+23895              LONG JESSIE C & WILLIAM D III
+7224                      KYLE JASON & ELIZABETH
+11964   PELLEGRINO BERNARD A & PELLEGRINO BERNAR
+24947               OTTS OTIS T & EDITH E & SURV
+4123                   SPAT MELVIN & BARBARA MAY
+19564           CENTENO BLANCA & CASTILLO THOMAS
+13593                   AU ALEXANDER F & SUSAN J
+24934 VECE ROBERT & VECE O&quot;CONNELL PATRICIA
+3181                   RODRIGUEZ MIGUEL & MIRIAM
+11989             ATTANIESE BARBARA J & MARY A *
+                                         eks36_ps579
+23895              LONG JESSIE C &amp; WILLIAM D III
+7224                      KYLE JASON &amp; ELIZABETH
+11964   PELLEGRINO BERNARD A &amp; PELLEGRINO BERNAR
+24947           OTTS OTIS T &amp; EDITH E &amp; SURV
+4123                   SPAT MELVIN &amp; BARBARA MAY
+19564           CENTENO BLANCA &amp; CASTILLO THOMAS
+13593                   AU ALEXANDER F &amp; SUSAN J
+24934 VECE ROBERT &amp; VECE O&quot;CONNELL PATRICIA
+3181                   RODRIGUEZ MIGUEL &amp; MIRIAM
+11989             ATTANIESE BARBARA J &amp; MARY A *
+                                  grs37_hak25
+23895            LONG JESSIE C  WILLIAM D III
+7224                    KYLE JASON  ELIZABETH
+11964 PELLEGRINO BERNARD A  PELLEGRINO BERNAR
+24947              OTTS OTIS T  EDITH E  SURV
+4123                 SPAT MELVIN  BARBARA MAY
+19564         CENTENO BLANCA  CASTILLO THOMAS
+13593                 AU ALEXANDER F  SUSAN J
+24934 VECE ROBERT  VECE OquotCONNELL PATRICIA
+3181                 RODRIGUEZ MIGUEL  MIRIAM
+11989             ATTANIESE BARBARA J  MARY A
+                               jh938_cps46_aew54
+23895              LONG JESSIE C & WILLIAM D III
+7224                      KYLE JASON & ELIZABETH
+11964   PELLEGRINO BERNARD A & PELLEGRINO BERNAR
+24947               OTTS OTIS T & EDITH E & SURV
+4123                   SPAT MELVIN & BARBARA MAY
+19564           CENTENO BLANCA & CASTILLO THOMAS
+13593                   AU ALEXANDER F & SUSAN J
+24934 VECE ROBERT & VECE O&quot;CONNELL PATRICIA
+3181                   RODRIGUEZ MIGUEL & MIRIAM
+11989             ATTANIESE BARBARA J & MARY A *
+                                    mam352_lcr33
+23895              LONG JESSIE C & WILLIAM D III
+7224                      KYLE JASON & ELIZABETH
+11964   PELLEGRINO BERNARD A & PELLEGRINO BERNAR
+24947               OTTS OTIS T & EDITH E & SURV
+4123                   SPAT MELVIN & BARBARA MAY
+19564           CENTENO BLANCA & CASTILLO THOMAS
+13593                   AU ALEXANDER F & SUSAN J
+24934 VECE ROBERT & VECE O&quot;CONNELL PATRICIA
+3181                   RODRIGUEZ MIGUEL & MIRIAM
+11989             ATTANIESE BARBARA J & MARY A *
+                                    mjb249_ael52
+23895              LONG JESSIE C & WILLIAM D III
+7224                      KYLE JASON & ELIZABETH
+11964   PELLEGRINO BERNARD A & PELLEGRINO BERNAR
+24947               OTTS OTIS T & EDITH E & SURV
+4123                   SPAT MELVIN & BARBARA MAY
+19564           CENTENO BLANCA & CASTILLO THOMAS
+13593                   AU ALEXANDER F & SUSAN J
+24934 VECE ROBERT & VECE O&quot;CONNELL PATRICIA
+3181                   RODRIGUEZ MIGUEL & MIRIAM
+11989             ATTANIESE BARBARA J & MARY A *
+
+
+---------------------- 4 
+# times there were 4 unique values: 51 
+                                        apd29
+13174      AHERN LUCY JUDE R & KINNEY DAVID C
+11578             LANGELLO LAWRENCE ANTHONY &
+27028  CONNELLY JAMES A JR & WIRTIG MELISSA A
+13306             SORRENTINO JESSE NICOLE L &
+25200               HEALD SARAH L & PETER W &
+23862             WALKER FRANCIS E & MARY A &
+19795          FESTA SUSAN JOSEPHINE & RITA G
+11181              PIASCIK ROY HELEN & OWSIEJ
+19348                       HEAD JAMES & ROSA
+25320        SAKONA PATRICIA SHELLEY STACEY &
+                                      eks36_ps579
+13174      AHERN LUCY JUDE R &amp; KINNEY DAVID C
+11578             LANGELLO LAWRENCE ANTHONY &amp;
+27028  CONNELLY JAMES A JR &amp; WIRTIG MELISSA A
+13306             SORRENTINO JESSE NICOLE L &amp;
+25200           HEALD SARAH L &amp; PETER W &amp;
+23862         WALKER FRANCIS E &amp; MARY A &amp;
+19795          FESTA SUSAN JOSEPHINE &amp; RITA G
+11181              PIASCIK ROY HELEN &amp; OWSIEJ
+19348                       HEAD JAMES &amp; ROSA
+25320        SAKONA PATRICIA SHELLEY STACEY &amp;
+                                grs37_hak25                       jh938_cps46_aew54
+13174     AHERN LUCY JUDE R  KINNEY DAVID C     AHERN LUCY, JUDE R & KINNEY DAVID C
+11578             LANGELLO LAWRENCE ANTHONY            LANGELLO LAWRENCE, ANTHONY &
+27028 CONNELLY JAMES A JR  WIRTIG MELISSA A  CONNELLY JAMES A JR & WIRTIG MELISSA A
+13306             SORRENTINO JESSE NICOLE L            SORRENTINO JESSE, NICOLE L &
+25200                HEALD SARAH L  PETER W              HEALD, SARAH L & PETER W &
+23862              WALKER FRANCIS E  MARY A            WALKER, FRANCIS E & MARY A &
+19795         FESTA SUSAN JOSEPHINE  RITA G         FESTA SUSAN, JOSEPHINE & RITA G
+11181             PIASCIK ROY HELEN  OWSIEJ             PIASCIK ROY, HELEN & OWSIEJ
+19348                      HEAD JAMES  ROSA                      HEAD, JAMES & ROSA
+25320        SAKONA PATRICIA SHELLEY STACEY       SAKONA PATRICIA, SHELLEY STACEY &
+                                mam352_lcr33                            mjb249_ael52
+13174     AHERN LUCY JUDE R & KINNEY DAVID C      AHERN LUCY JUDE R & KINNEY DAVID C
+11578            LANGELLO LAWRENCE ANTHONY &             LANGELLO LAWRENCE ANTHONY &
+27028 CONNELLY JAMES A JR & WIRTIG MELISSA A  CONNELLY JAMES A JR & WIRTIG MELISSA A
+13306            SORRENTINO JESSE NICOLE L &             SORRENTINO JESSE NICOLE L &
+25200              HEALD SARAH L & PETER W &               HEALD SARAH L & PETER W &
+23862            WALKER FRANCIS E & MARY A &             WALKER FRANCIS E & MARY A &
+19795         FESTA SUSAN JOSEPHINE & RITA G          FESTA SUSAN JOSEPHINE & RITA G
+11181             PIASCIK ROY HELEN & OWSIEJ              PIASCIK ROY HELEN & OWSIEJ
+19348                      HEAD JAMES & ROSA                       HEAD JAMES & ROSA
+25320       SAKONA PATRICIA SHELLEY STACEY &        SAKONA PATRICIA SHELLEY STACEY &
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> date1 
+
+
+---------------------- 2 
+# times there were 2 unique values: 6253 
+      apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+8609   <NA>  12/18/1979  12/18/1979        12/18/1979   12/18/1979   12/18/1979
+7453   <NA>  04/04/1990  04/04/1990        04/04/1990   04/04/1990   04/04/1990
+27205  <NA>  06/19/1987  06/19/1987        06/19/1987   06/19/1987   06/19/1987
+17634  <NA>  10/28/1992  10/28/1992        10/28/1992   10/28/1992   10/28/1992
+20564  <NA>  09/22/1987  09/22/1987        09/22/1987   09/22/1987   09/22/1987
+27023  <NA>  02/11/1999  02/11/1999        02/11/1999   02/11/1999   02/11/1999
+23719  <NA>  03/23/1922  03/23/1922        03/23/1922   03/23/1922   03/23/1922
+2565   <NA>  11/29/1983  11/29/1983        11/29/1983   11/29/1983   11/29/1983
+21502  <NA>  04/29/1977  04/29/1977        04/29/1977   04/29/1977   04/29/1977
+25430  <NA>  05/30/1989  05/30/1989        05/30/1989   05/30/1989   05/30/1989
+
+
+---------------------- 3 
+# times there were 3 unique values: 1 
+     apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+5897  <NA>      &nbsp;  1951&nbsp;            &nbsp;   1951&nbsp;         <NA>
+
+
+---------------------- 4 
+# times there were 4 unique values: 1 
+     apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+3959  <NA>      &nbsp;   149&nbsp;            &nbsp;    149&nbsp;         <NA>
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> price1 
+
+
+---------------------- 2 
+# times there were 2 unique values: 24458 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+19295  54000       54000       54000             54000         5400        54000
+12459      0           0           0                 0           NA            0
+309        0           0           0                 0           NA            0
+15668      0           0           0                 0           NA            0
+2003   50000       50000       50000             50000         5000        50000
+15728      0           0           0                 0           NA            0
+18756 145000      145000      145000            145000        14500       145000
+23281      0           0           0                 0           NA            0
+2033       0           0           0                 0           NA            0
+16909  91000       91000       91000             91000         9100        91000
+
+
+---------------------- 3 
+# times there were 3 unique values: 104 
+       apd29 eks36_ps579 grs37_hak25 jh938_cps46_aew54 mam352_lcr33 mjb249_ael52
+15793 265000      265000      285000            265000        26500       265000
+14863 195000      195000       64155            195000        19500       195000
+5946   14000       14000       71000             14000         1400        14000
+8147   74100       74100       16500             74100         7410        74100
+563   270000      270000           0            270000        27000       270000
+12503 450000      450000           0            450000        45000       450000
+6695  179500      179500      180000            179500        17950       179500
+16696  80000       80000           0             80000         8000        80000
+25251 158500      158500      165000            158500        15850       158500
+12755 475000      475000           0            475000        47500       475000
+***************************************************
+>>>>>>>>>>>>>>>>>>>>>>>> buyer1 
+
+
+---------------------- 2 
+# times there were 2 unique values: 5657 
+                                apd29                     eks36_ps579
+21728                    IRIS-TAL LLC                    IRIS-TAL LLC
+23444                  PAYNE FRANCES                   PAYNE FRANCES 
+13181 UNITED ILLUMINATING COMPANY TH  UNITED ILLUMINATING COMPANY TH 
+25434                    FEWES SUSAN                     FEWES SUSAN 
+18207                   FOSTER KATHY                    FOSTER KATHY 
+9387               POZARLIK JOSEPH M.              POZARLIK JOSEPH M.
+4653              KORSZUN EST HELENA              KORSZUN EST HELENA 
+13820                YALE UNIVERSITY                 YALE UNIVERSITY 
+5094           MARTIN-MCCALLUM GLORIA          MARTIN-MCCALLUM GLORIA
+16805        VALANZUOLO EQUITIES LLC         VALANZUOLO EQUITIES LLC 
+                         grs37_hak25               jh938_cps46_aew54
+21728                    IRISTAL LLC                    IRIS-TAL LLC
+23444                  PAYNE FRANCES                  PAYNE FRANCES 
+13181 UNITED ILLUMINATING COMPANY TH UNITED ILLUMINATING COMPANY TH 
+25434                    FEWES SUSAN                    FEWES SUSAN 
+18207                   FOSTER KATHY                   FOSTER KATHY 
+9387               POZARLIK JOSEPH M              POZARLIK JOSEPH M.
+4653              KORSZUN EST HELENA             KORSZUN EST HELENA 
+13820                YALE UNIVERSITY                YALE UNIVERSITY 
+5094           MARTINMCCALLUM GLORIA          MARTIN-MCCALLUM GLORIA
+16805        VALANZUOLO EQUITIES LLC        VALANZUOLO EQUITIES LLC 
+                         mam352_lcr33                    mjb249_ael52
+21728                    IRIS-TAL LLC                    IRIS-TAL LLC
+23444                  PAYNE FRANCES                   PAYNE FRANCES 
+13181 UNITED ILLUMINATING COMPANY TH  UNITED ILLUMINATING COMPANY TH 
+25434                    FEWES SUSAN                     FEWES SUSAN 
+18207                   FOSTER KATHY                    FOSTER KATHY 
+9387               POZARLIK JOSEPH M.              POZARLIK JOSEPH M.
+4653              KORSZUN EST HELENA              KORSZUN EST HELENA 
+13820                YALE UNIVERSITY                 YALE UNIVERSITY 
+5094           MARTIN-MCCALLUM GLORIA          MARTIN-MCCALLUM GLORIA
+16805        VALANZUOLO EQUITIES LLC         VALANZUOLO EQUITIES LLC 
+
+
+---------------------- 3 
+# times there were 3 unique values: 6994 
+                               apd29                            eks36_ps579
+5496     CHARLES PETER & RITA & SURV    CHARLES PETER &amp; RITA &amp; SURV
+10458  TOMMASELLI JAMES & CATHERINE       TOMMASELLI JAMES &amp; CATHERINE 
+17146 PERRONE JOSEPH R JR & FARQUHAR     PERRONE JOSEPH R JR &amp; FARQUHAR
+17844 VALERIANO WALTER & SILVINO & * VALERIANO WALTER &amp; SILVINO &amp; *
+21935       YANG TOM T & LUO LUCY F            YANG TOM T &amp; LUO LUCY F 
+4389   SEGUI GABRIEL & WORDIE NICOLE      SEGUI GABRIEL &amp; WORDIE NICOLE
+5790  SERIO ANTHONY S TR & MACKENZIE     SERIO ANTHONY S TR &amp; MACKENZIE
+15384 TRACEY ROBERT C & MARY ANN & S TRACEY ROBERT C &amp; MARY ANN &amp; S
+11062   STE MARIE RICHARD P & LISA M       STE MARIE RICHARD P &amp; LISA M
+1321   LAFFITTE RAUL J & CARLEEN A &  LAFFITTE RAUL J &amp; CARLEEN A &amp;
+                        grs37_hak25              jh938_cps46_aew54
+5496      CHARLES PETER  RITA  SURV    CHARLES PETER & RITA & SURV
+10458   TOMMASELLI JAMES  CATHERINE  TOMMASELLI JAMES & CATHERINE 
+17146 PERRONE JOSEPH R JR  FARQUHAR PERRONE JOSEPH R JR & FARQUHAR
+17844     VALERIANO WALTER  SILVINO VALERIANO WALTER & SILVINO & *
+21935        YANG TOM T  LUO LUCY F       YANG TOM T & LUO LUCY F 
+4389   SEGUI GABRIEL  WORDIE NICOLE  SEGUI GABRIEL & WORDIE NICOLE
+5790  SERIO ANTHONY S TR  MACKENZIE SERIO ANTHONY S TR & MACKENZIE
+15384  TRACEY ROBERT C  MARY ANN  S TRACEY ROBERT C & MARY ANN & S
+11062   STE MARIE RICHARD P  LISA M   STE MARIE RICHARD P & LISA M
+1321     LAFFITTE RAUL J  CARLEEN A  LAFFITTE RAUL J & CARLEEN A &
+                        mam352_lcr33                   mjb249_ael52
+5496     CHARLES PETER & RITA & SURV    CHARLES PETER & RITA & SURV
+10458  TOMMASELLI JAMES & CATHERINE   TOMMASELLI JAMES & CATHERINE 
+17146 PERRONE JOSEPH R JR & FARQUHAR PERRONE JOSEPH R JR & FARQUHAR
+17844 VALERIANO WALTER & SILVINO & * VALERIANO WALTER & SILVINO & *
+21935       YANG TOM T & LUO LUCY F        YANG TOM T & LUO LUCY F 
+4389   SEGUI GABRIEL & WORDIE NICOLE  SEGUI GABRIEL & WORDIE NICOLE
+5790  SERIO ANTHONY S TR & MACKENZIE SERIO ANTHONY S TR & MACKENZIE
+15384 TRACEY ROBERT C & MARY ANN & S TRACEY ROBERT C & MARY ANN & S
+11062   STE MARIE RICHARD P & LISA M   STE MARIE RICHARD P & LISA M
+1321   LAFFITTE RAUL J & CARLEEN A &  LAFFITTE RAUL J & CARLEEN A &
+
+
+---------------------- 4 
+# times there were 4 unique values: 77 
+                                        apd29
+12687                RUOCCO JAMES VINCENT O &
+17974               BLUE EDDIE DANNIE & HOSEA
+15515               BAEZ ROSARIO ALBERTO SR &
+21821           GOLDBERG SAUL SONYA & WILLIAM
+4260             PIETROSIMONE MARK & LISA M &
+20987          EDWARDS JAMES GREGORY & ELAINE
+5526       LIN XU KEVIN TIAN LI & LIN MICHAEL
+16099 XU MINREN WANG XIANG & XU CHRISTOPHER X
+5810          SOMXANXAY MALISINH VIENSAVANH &
+20541            MANNER CHRISTOPHER ELIZERK &
+                                      eks36_ps579
+12687                RUOCCO JAMES VINCENT O &amp;
+17974               BLUE EDDIE DANNIE &amp; HOSEA
+15515               BAEZ ROSARIO ALBERTO SR &amp;
+21821           GOLDBERG SAUL SONYA &amp; WILLIAM
+4260         PIETROSIMONE MARK &amp; LISA M &amp;
+20987          EDWARDS JAMES GREGORY &amp; ELAINE
+5526       LIN XU KEVIN TIAN LI &amp; LIN MICHAEL
+16099 XU MINREN WANG XIANG &amp; XU CHRISTOPHER X
+5810          SOMXANXAY MALISINH VIENSAVANH &amp;
+20541            MANNER CHRISTOPHER ELIZERK &amp;
+                                 grs37_hak25
+12687                 RUOCCO JAMES VINCENT O
+17974               BLUE EDDIE DANNIE  HOSEA
+15515                BAEZ ROSARIO ALBERTO SR
+21821           GOLDBERG SAUL SONYA  WILLIAM
+4260               PIETROSIMONE MARK  LISA M
+20987          EDWARDS JAMES GREGORY  ELAINE
+5526       LIN XU KEVIN TIAN LI  LIN MICHAEL
+16099 XU MINREN WANG XIANG  XU CHRISTOPHER X
+5810           SOMXANXAY MALISINH VIENSAVANH
+20541             MANNER CHRISTOPHER ELIZERK
+                             jh938_cps46_aew54
+12687                RUOCCO JAMES, VINCENT O &
+17974               BLUE EDDIE, DANNIE & HOSEA
+15515               BAEZ ROSARIO, ALBERTO SR &
+21821           GOLDBERG SAUL, SONYA & WILLIAM
+4260             PIETROSIMONE, MARK & LISA M &
+20987          EDWARDS JAMES, GREGORY & ELAINE
+5526       LIN XU KEVIN, TIAN LI & LIN MICHAEL
+16099 XU MINREN, WANG XIANG & XU CHRISTOPHER X
+5810          SOMXANXAY MALISINH, VIENSAVANH &
+20541            MANNER CHRISTOPHER, ELIZERK &
+                                 mam352_lcr33
+12687                RUOCCO JAMES VINCENT O &
+17974               BLUE EDDIE DANNIE & HOSEA
+15515               BAEZ ROSARIO ALBERTO SR &
+21821           GOLDBERG SAUL SONYA & WILLIAM
+4260             PIETROSIMONE MARK & LISA M &
+20987          EDWARDS JAMES GREGORY & ELAINE
+5526       LIN XU KEVIN TIAN LI & LIN MICHAEL
+16099 XU MINREN WANG XIANG & XU CHRISTOPHER X
+5810          SOMXANXAY MALISINH VIENSAVANH &
+20541            MANNER CHRISTOPHER ELIZERK &
+                                 mjb249_ael52
+12687                RUOCCO JAMES VINCENT O &
+17974               BLUE EDDIE DANNIE & HOSEA
+15515               BAEZ ROSARIO ALBERTO SR &
+21821           GOLDBERG SAUL SONYA & WILLIAM
+4260             PIETROSIMONE MARK & LISA M &
+20987          EDWARDS JAMES GREGORY & ELAINE
+5526       LIN XU KEVIN TIAN LI & LIN MICHAEL
+16099 XU MINREN WANG XIANG & XU CHRISTOPHER X
+5810          SOMXANXAY MALISINH VIENSAVANH &
+20541            MANNER CHRISTOPHER ELIZERK &
