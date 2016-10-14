@@ -22,8 +22,22 @@ allrows<-allrows[order(allrows[,1]), ]
 rownames(allrows)<-1:nrow(allrows)
 allrows[is.na(allrows$location),c(3,4)]<-NA
 still.na<-which(!is.na(allrows$location) & 
-                  apply(allrows[,c(3,4)],1,function(x) all(is.na(x))))
+                  apply(allrows[, c(3,4)], 1, function(x) all(is.na(x))))
 locs<-paste(allrows[still.na,'location'], ", New Haven, CT", sep="")
 ans<-geocode(locs)
 allrows[still.na,'lat']<-ans$lat
 allrows[still.na, 'lon']<-ans$lon
+redundant<-which(table(allrows$pid)>1)
+for(i in redundant){
+  temp<-allrows[which(allrows$pid==i)[1], ]
+  allrows<-allrows[-which(allrows$pid==i), ]
+  allrows<-rbind(allrows, temp)
+}
+allrows<-allrows[order(allrows[, 1]), ]
+
+locations <- read.csv(file = 'address_lat_long.csv', as.is = TRUE)
+locs <- 23000:23999
+locations <- locations[locs, ]
+locations[, 2] <- paste(locations[, 2], ' ,New Haven, CT', sep = '')
+repair <- geocode(locations[!is.na(locations[, 2]), 2])
+write.table(allrows[, c(1,3,4)], row.names = FALSE, file = 'geocoded_dj333.csv', sep=',')

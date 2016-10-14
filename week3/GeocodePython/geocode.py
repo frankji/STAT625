@@ -15,13 +15,13 @@ Pre-requisites:
    e.g. into /usr/local/bin
 """
 
-download_folder = '/Users/eastie/Dropbox/STAT625/NewHavenGeocoding/'
+download_folder = '/Users/Frank/Courses/STAT625/week3/GeocodePython/'
 out_file = download_folder+'latlongs.csv'
 all_addresses = download_folder + 'all_addresses.csv'
 
 import re
 import string
-import urlparse
+from urllib.parse import urlparse
 import csv
 import math
 import os, glob
@@ -39,7 +39,7 @@ def GeocodeBatch(driver, ids):
   f = open(address_file, 'w')
   writer = csv.writer(f, delimiter=',', quotechar='"', 
     quoting=csv.QUOTE_MINIMAL)
-  for i in xrange(ids[0], ids[1]):
+  for i in range(ids[0], ids[1]):
     writer.writerow([i-ids[0]+1, addresses[i-1], 'New Haven', 'CT', '06511'])
   f.close()
   url = 'http://geocoding.geo.census.gov/geocoder/locations/addressbatch?form'
@@ -49,7 +49,7 @@ def GeocodeBatch(driver, ids):
   os.remove(address_file)
 
 # read in addresses
-with open(all_addresses, "rb") as f:
+with open(all_addresses, "rt") as f:
   reader = csv.reader(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
   next(reader)
   addresses = [i[1] for i in reader]
@@ -59,8 +59,8 @@ options = webdriver.ChromeOptions()
 prefs = {"download.default_directory" : download_folder}
 options.add_experimental_option("prefs",prefs)
 driver = webdriver.Chrome(chrome_options=options)
-numBatchFiles = len(addresses)/1000 + 1*(len(addresses) % 1000 != 0)
-for i in xrange(numBatchFiles):
+numBatchFiles = int(len(addresses)/1000) + 1*(len(addresses) % 1000 != 0)
+for i in range(numBatchFiles):
   start = i * 1000 + 1
   if i == numBatchFiles - 1:
     end = len(addresses)
